@@ -1,0 +1,5714 @@
+{
+ "document": "/home/user/AI-PowerPoint-Generator/02. French PPT to transform/FR - Template - Integration BI Odoo.potx",
+ "slides": [
+  {
+   "n": 1,
+   "hidden": false,
+   "layout_source": "Disposition personnalisée",
+   "title": "IMPLÉMENTATION BI DANS ODOO",
+   "texts": [
+    {
+     "shape": "Titre 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      3.75,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "IMPLÉMENTATION BI DANS ODOO"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mj-lt": 1
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Je suis ravi d'avoir l'opportunité de vous rencontrer aujourd'hui pour la démonstration et la présentation de notre offre. \n\nAvant de commencer, j'aimerais savoir comment les choses se sont passées de votre côté depuis notre dernière conversation ?\n",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 2,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": null,
+   "texts": [
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.61,
+      2.35,
+      4.06,
+      3.47
+     ],
+     "paragraphs": [
+      "Logiciel de gestion tout-en-un",
+      "Évolutif et modulable",
+      "Facile à utiliser",
+      "Entièrement intégré"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Image 3",
+     "left": 7.45,
+     "top": 0.99,
+     "width": 5.71,
+     "height": 4.24,
+     "format": "png",
+     "sha1": "1f4b2d8d1348",
+     "illustration_freepik": false,
+     "px": [
+      768,
+      570
+     ]
+    },
+    {
+     "name": "Graphique 4",
+     "left": -0.06,
+     "top": -0.19,
+     "width": 6.38,
+     "height": 3.44,
+     "format": "png",
+     "sha1": "e32539d389a9",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {
+    "FFFFFF": 4,
+    "BA131A": 1,
+    "724D67": 1
+   },
+   "fonts": {
+    "+mn-lt": 9,
+    "Trebuchet MS": 8,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [
+    "724D67"
+   ],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 1,
+   "notes": "Découvrez Odoo, un logiciel de gestion global complet conçu pour rationaliser toutes vos opérations au sein d'une plateforme centralisée.\n\nAvec Odoo, vous gagnez en flexibilité en commençant par quelques modules essentiels et en intégrant de manière transparente des fonctionnalités supplémentaires au fur et à mesure que votre entreprise se développe. \n\nCette solution évolutive grandit avec vous, garantissant que les capacités de votre logiciel s'étendent avec les besoins de votre entreprise.\n\nL'une des caractéristiques phares d'Odoo est sa conception centrée sur l'utilisateur. Odoo accorde la priorité à l'expérience utilisateur, offrant une interface intuitive et conviviale qui rend la navigation et l'opération un jeu d'enfant. \n\nOdoo est plus qu'un simple logiciel ; c'est un outil conçu en pensant à l'utilisateur, permettant à votre équipe de travailler de manière plus efficace et efficiente.\n",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 3,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": "UN LOGICIEL, UNE SUCCESS STORY",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      2.3,
+      2.99,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+15M",
+      "D’UTILISATEURS"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      1.53,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "UN LOGICIEL, UNE SUCCESS STORY"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.64,
+      2.99,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+6K",
+      "EMPLOYÉS"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.97,
+      2.99,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+50K",
+      "MODULES"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 16",
+     "left": 3.48,
+     "top": -0.57,
+     "width": 6.38,
+     "height": 3.44,
+     "format": "png",
+     "sha1": "e32539d389a9",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {},
+   "fonts": {
+    "+mn-lt": 18,
+    "+mn-ea": 18,
+    "+mn-cs": 18
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Odoo compte plus de 15 millions d'utilisateurs et emploie plus de 6 000 employées. \n\nL'un des plus grands atouts d'Odoo est sa flexibilité. En plus de la large gamme de modules standards, Odoo offre l'accès à une marketplace proposant plus de 50 000 modules supplémentaires. Cela vous permet d'adapter le logiciel précisément à vos besoins spécifiques.",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~2.0x2.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 4,
+   "hidden": false,
+   "layout_source": "4 Dots - Aligned",
+   "title": null,
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 11,
+     "pos": [
+      0.9,
+      2.73,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "ERP"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      4.06,
+      2.73,
+      2.07,
+      2.04
+     ],
+     "paragraphs": [
+      "WEB"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      10.37,
+      2.73,
+      2.06,
+      2.04
+     ],
+     "paragraphs": [
+      "BI"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      7.22,
+      2.73,
+      2.06,
+      2.04
+     ],
+     "paragraphs": [
+      "AI"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "4"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 18",
+     "left": 3.73,
+     "top": 0.65,
+     "width": 5.88,
+     "height": 0.98,
+     "format": "png",
+     "sha1": "7d8e88be232f",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      2500,
+      416
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Captivea dispose de multiples expertises pour soutenir vos besoins. \n\nNos services incluent l'intégration ERP pour rationaliser vos opérations. \n\nDe plus, notre département d'agence web est dédié à la construction et à l'amélioration de votre présence en ligne et de vos stratégies de communication. \n\nNous sommes également spécialisés dans l'utilisation de l'IA pour améliorer vos processus, et notre département Business Intelligence est équipé pour fournir des analyses de données perspicaces afin de faire avancer votre entreprise.\n",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 5,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": null,
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      2.3,
+      2.99,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+800",
+      "CLIENTS SATISFAITS"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "5"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 2",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.64,
+      2.99,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+200",
+      "EMPLOYÉS HEUREUX"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 2",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.97,
+      3.0,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "+18 ans",
+      "D’INTÉGRATION ERP"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 11",
+     "left": 3.73,
+     "top": 0.65,
+     "width": 5.88,
+     "height": 0.98,
+     "format": "png",
+     "sha1": "7d8e88be232f",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      2500,
+      416
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {},
+   "fonts": {
+    "+mn-lt": 18,
+    "+mn-ea": 18,
+    "+mn-cs": 18
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Nous sommes le leader mondial de l'intégration Odoo, avec 18 ans d'expérience. Nous avons une méthode éprouvée avec laquelle nous avons accompagné plus de 800 entreprises vers le succès.\n\nNous sommes une équipe de 200 collaborateurs pour vous guider à chaque étape et vous assurer une intégration fluide.\n\n\n\n",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~2.0x2.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 6,
+   "hidden": false,
+   "layout_source": "Titre vertical et texte Gauche",
+   "title": "NOS RÉFÉRENCES",
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "6"
+     ]
+    },
+    {
+     "shape": "Titre 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      -2.24,
+      3.03,
+      6.7,
+      1.45
+     ],
+     "paragraphs": [
+      "NOS RÉFÉRENCES"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Espace réservé du contenu 10",
+     "left": 3.02,
+     "top": 0.21,
+     "width": 10.06,
+     "height": 7.08,
+     "format": "png",
+     "sha1": "c28e4cf8bf2f",
+     "illustration_freepik": false,
+     "px": [
+      1703,
+      1198
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Voici quelque une une de nos références et sachez que vous retrouverez sur notre site internet plus de 300 présentations de projets que nous avons faits. Il y a la description du besoin, l’accompagnement fourni et les résultats\n\n",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 7,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "CHRONOLOGIE DU PROJET CAPTIVEA",
+   "texts": [
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "CHRONOLOGIE DU PROJET CAPTIVEA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "7"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 12",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.58,
+      3.84,
+      1.49,
+      0.71
+     ],
+     "paragraphs": [
+      "PHASE D'ANALYSE"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 18",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.84,
+      3.84,
+      1.99,
+      0.71
+     ],
+     "paragraphs": [
+      "CONSULTATION GRATUITE"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 24",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.17,
+      3.84,
+      1.65,
+      0.71
+     ],
+     "paragraphs": [
+      "ESTIMATION GLOBALE"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 29",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      10.24,
+      3.84,
+      2.49,
+      0.71
+     ],
+     "paragraphs": [
+      "PHASE D'IMPLÉMENTATION"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 87",
+     "left": 3.63,
+     "top": 2.41,
+     "width": 0.38,
+     "height": 0.38,
+     "format": "png",
+     "sha1": "c77de19bc3e1",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 105",
+     "left": 1.59,
+     "top": 2.75,
+     "width": 0.3,
+     "height": 0.3,
+     "format": "png",
+     "sha1": "c379b4435411",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 100",
+     "left": 3.85,
+     "top": 6.4,
+     "width": 0.36,
+     "height": 0.35,
+     "format": "png",
+     "sha1": "b49b7f4ffa33",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 94",
+     "left": 8.4,
+     "top": 4.57,
+     "width": 0.27,
+     "height": 0.27,
+     "format": "png",
+     "sha1": "46210d005d80",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 5",
+     "enfants": 2,
+     "size": [
+      0.5,
+      0.61
+     ]
+    },
+    {
+     "path": "Groupe 5/Google Shape;1407;p36",
+     "enfants": 2,
+     "size": [
+      0.61,
+      0.5
+     ]
+    },
+    {
+     "path": "Groupe 5/Groupe 7",
+     "enfants": 2,
+     "size": [
+      0.43,
+      0.43
+     ]
+    },
+    {
+     "path": "Groupe 13",
+     "enfants": 2,
+     "size": [
+      0.5,
+      0.61
+     ]
+    },
+    {
+     "path": "Groupe 13/Google Shape;1407;p36",
+     "enfants": 2,
+     "size": [
+      0.61,
+      0.5
+     ]
+    },
+    {
+     "path": "Groupe 19",
+     "enfants": 2,
+     "size": [
+      0.5,
+      0.61
+     ]
+    },
+    {
+     "path": "Groupe 19/Google Shape;1407;p36",
+     "enfants": 2,
+     "size": [
+      0.61,
+      0.5
+     ]
+    },
+    {
+     "path": "Groupe 25",
+     "enfants": 3,
+     "size": [
+      0.5,
+      0.61
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 4,
+   "colors": {
+    "212529": 14,
+    "FFFFFF": 5,
+    "714B67": 2,
+    "BA131A": 1
+   },
+   "fonts": {
+    "+mn-ea": 15,
+    "+mn-cs": 15
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [],
+   "gradients": 5,
+   "notes": "Je vais vous expliquer comment se déroule un projet chez Captivea.\n\nActuellement, nous sommes dans la phase de consultation gratuite et d'estimation globale. Nous avons préparé une estimation initiale pour votre projet, que nous aborderons plus tard.\n\nLa première étape de notre collaboration est une phase d'analyse. Durant cette phase, nous organiserons des ateliers de travail avec vos utilisateurs clés pour bien comprendre vos besoins et voir comment les intégrer avec Odoo. C'est un moment d'échange pour identifier comment vous pouvez vous adapter à Odoo et comment Odoo peut s'adapter à vous.\n\nÀ l'issue de cette phase d'analyse, nous vous fournirons une estimation détaillée de votre projet, incluant tout ce qu'il faut pour mettre en place le logiciel. Si vous validez cette estimation, nous démarrerons la phase de mise en œuvre.\n\nLors de la phase de mise en œuvre, nous installerons le logiciel, effectuerons les adaptations et configurations nécessaires, puis nous passerons en production. ",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "3 éléments parallèles possibles (taille ~2.0x1.0 in) -> masque à 3 ?"
+   ]
+  },
+  {
+   "n": 8,
+   "hidden": false,
+   "layout_source": "Full White",
+   "title": null,
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "8"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 12",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.73,
+      2.41,
+      2.94,
+      0.4
+     ],
+     "paragraphs": [
+      "CONFORT UTILISATEUR"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 13",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.73,
+      3.45,
+      1.94,
+      0.4
+     ],
+     "paragraphs": [
+      "PRODUCTIVITÉ"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 17",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      3.53,
+      6.15,
+      2.43,
+      0.64
+     ],
+     "paragraphs": [
+      "MISE EN PRODUCTION VERSION 1"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 21",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.36,
+      4.94,
+      2.43,
+      0.37
+     ],
+     "paragraphs": [
+      "VERSION 2"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 22",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.9,
+      2.82,
+      2.43,
+      0.37
+     ],
+     "paragraphs": [
+      "VERSION 3"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "EVOLUEZ AVEC ODOO"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 5",
+     "enfants": 2,
+     "size": [
+      0.84,
+      0.11
+     ]
+    },
+    {
+     "path": "Groupe 9",
+     "enfants": 2,
+     "size": [
+      0.84,
+      0.11
+     ]
+    },
+    {
+     "path": "Groupe 18",
+     "enfants": 2,
+     "size": [
+      0.84,
+      0.11
+     ]
+    }
+   ],
+   "connectors": 3,
+   "autoshapes_with_text": 0,
+   "textboxes": 6,
+   "colors": {
+    "714B67": 10,
+    "BA131A": 3,
+    "C00000": 2
+   },
+   "fonts": {
+    "Trebuchet MS": 1,
+    "+mj-lt": 1,
+    "+mn-ea": 18,
+    "+mj-ea": 1,
+    "+mn-cs": 18,
+    "+mj-cs": 1
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 4,
+   "notes": "\nAprès la mise en production, nous resterons très réactifs pour ajuster le système et répondre rapidement à vos attentes.\nPar la suite, nous évaluerons le projet et définirons les prochaines étapes pour construire une version 2, puis une version 3.\n",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "3 éléments parallèles possibles (taille ~2.0x0.0 in) -> masque à 3 ?"
+   ]
+  },
+  {
+   "n": 9,
+   "hidden": true,
+   "layout_source": "Title + 1 Column",
+   "title": "Vos interlocuteurs",
+   "texts": [
+    {
+     "shape": "Titre 126",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "Vos interlocuteurs"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "9"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 25",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      -0.51,
+      3.17,
+      1.98,
+      0.3
+     ],
+     "paragraphs": [
+      "OPERATIONS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 33",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      -0.56,
+      5.17,
+      1.98,
+      0.3
+     ],
+     "paragraphs": [
+      "SALES"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 100",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.3,
+      1.98,
+      0.83,
+      0.3
+     ],
+     "paragraphs": [
+      "Kick off"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 115",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.64,
+      1.98,
+      1.79,
+      0.3
+     ],
+     "paragraphs": [
+      "Analysis Restitution"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 128",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      -0.02,
+      6.66,
+      1.09,
+      0.5
+     ],
+     "paragraphs": [
+      "CUSTOMER SUCCESS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 129",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.89,
+      1.98,
+      1.18,
+      0.3
+     ],
+     "paragraphs": [
+      "Pre Go Live"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 130",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.51,
+      1.98,
+      1.18,
+      0.3
+     ],
+     "paragraphs": [
+      "Post Go Live"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 203",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.19,
+      2.66,
+      1.36,
+      0.3
+     ],
+     "paragraphs": [
+      "ANALYSIS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 204",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.54,
+      2.66,
+      2.28,
+      0.3
+     ],
+     "paragraphs": [
+      "IMPLEMENTATION"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 205",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.41,
+      3.66,
+      3.25,
+      0.3
+     ],
+     "paragraphs": [
+      "REACTIVE SUPPORT & EVOLUTIONS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 206",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.54,
+      4.69,
+      2.25,
+      0.3
+     ],
+     "paragraphs": [
+      "STEERING COMITEES"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 207",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.9,
+      6.77,
+      2.88,
+      0.3
+     ],
+     "paragraphs": [
+      "SATISFACTION SURVEYS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 208",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.43,
+      5.67,
+      3.2,
+      0.3
+     ],
+     "paragraphs": [
+      "FOLLOW-UP MEETINGS"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 209",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.79,
+      2.66,
+      1.62,
+      0.3
+     ],
+     "paragraphs": [
+      "GO-LIVE"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 9",
+     "left": 0.65,
+     "top": 2.36,
+     "width": 2.97,
+     "height": 0.87,
+     "format": "png",
+     "sha1": "1e5c8fbe3b2c",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1068,
+      314
+     ]
+    },
+    {
+     "name": "Graphique 15",
+     "left": 0.66,
+     "top": 6.47,
+     "width": 1.27,
+     "height": 0.89,
+     "format": "png",
+     "sha1": "f8bc050d232e",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      456,
+      320
+     ]
+    },
+    {
+     "name": "Graphique 19",
+     "left": 0.66,
+     "top": 4.39,
+     "width": 1.27,
+     "height": 0.89,
+     "format": "png",
+     "sha1": "3a8ec62b5206",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      456,
+      320
+     ]
+    },
+    {
+     "name": "Graphique 35",
+     "left": 0.65,
+     "top": 3.33,
+     "width": 2.98,
+     "height": 0.95,
+     "format": "png",
+     "sha1": "5f126e58a414",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1074,
+      344
+     ]
+    },
+    {
+     "name": "Graphique 37",
+     "left": 0.66,
+     "top": 5.38,
+     "width": 1.27,
+     "height": 0.88,
+     "format": "png",
+     "sha1": "598f3f32c611",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      456,
+      318
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 101",
+     "enfants": 2,
+     "size": [
+      0.35,
+      0.35
+     ]
+    },
+    {
+     "path": "Groupe 101/Google Shape;11660;p77",
+     "enfants": 7,
+     "size": [
+      0.27,
+      0.26
+     ]
+    },
+    {
+     "path": "Groupe 131",
+     "enfants": 2,
+     "size": [
+      0.35,
+      0.35
+     ]
+    },
+    {
+     "path": "Groupe 131/Google Shape;11660;p77",
+     "enfants": 7,
+     "size": [
+      0.27,
+      0.26
+     ]
+    },
+    {
+     "path": "Groupe 141",
+     "enfants": 2,
+     "size": [
+      0.35,
+      0.35
+     ]
+    },
+    {
+     "path": "Groupe 141/Google Shape;11660;p77",
+     "enfants": 7,
+     "size": [
+      0.27,
+      0.26
+     ]
+    },
+    {
+     "path": "Groupe 151",
+     "enfants": 2,
+     "size": [
+      0.35,
+      0.35
+     ]
+    },
+    {
+     "path": "Groupe 151/Google Shape;11660;p77",
+     "enfants": 7,
+     "size": [
+      0.27,
+      0.26
+     ]
+    }
+   ],
+   "connectors": 11,
+   "autoshapes_with_text": 0,
+   "textboxes": 14,
+   "colors": {
+    "F1F1F1": 2
+   },
+   "fonts": {
+    "+mj-lt": 8,
+    "Trebuchet MS": 8,
+    "+mn-ea": 8,
+    "+mn-cs": 8
+   },
+   "old_violets": [],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "6 éléments parallèles possibles (taille ~2.0x0.0 in) -> masque à 6 ?",
+    "MASQUÉE -> remasquer"
+   ]
+  },
+  {
+   "n": 10,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": "GOUVERNANCE DU PROJET CAPTIVEA",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      2.29,
+      5.15,
+      2.07,
+      0.7
+     ],
+     "paragraphs": [
+      "Réunions hebdomadaires de démo"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      5.33,
+      5.1,
+      2.64,
+      0.87
+     ],
+     "paragraphs": [
+      "Réunions hebdomadaires de gestion de projet"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      8.95,
+      5.1,
+      2.06,
+      0.87
+     ],
+     "paragraphs": [
+      "Comités de pilotage à la demande"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "GOUVERNANCE DU PROJET CAPTIVEA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "10"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 155",
+     "left": 2.87,
+     "top": 3.56,
+     "width": 0.92,
+     "height": 0.92,
+     "format": "png",
+     "sha1": "7cd4b66ba70a",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 4",
+     "left": 6.18,
+     "top": 3.56,
+     "width": 0.98,
+     "height": 0.98,
+     "format": "png",
+     "sha1": "7cd4b66ba70a",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 157",
+     "left": 9.55,
+     "top": 3.56,
+     "width": 0.92,
+     "height": 0.92,
+     "format": "png",
+     "sha1": "5c9b349e24ce",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Tout au long du projet, plusieurs réunions de suivi seront organisées :\nRéunion hebdomadaire de démonstration : Nous vous montrerons les avancées du projet, les configurations et personnalisations réalisées. L'objectif est de recueillir vos retours le plus tôt possible.\nRéunion de gestion de projet : Avec le chef de projet et le décideur chez vous, nous discuterons de la consommation du temps et vérifierons que nous sommes toujours dans les délais, en toute transparence.\nComité de pilotage : Cette réunion, souvent mensuelle, rassemble toutes les parties prenantes pour faire un point global sur le projet, discuter des améliorations possibles et vérifier la tenue du planning et des fonctionnalités demandées.\n\n",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 11,
+   "hidden": false,
+   "layout_source": "Titre vertical et texte Gauche",
+   "title": "L’ÉQUIPE PROJET",
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "11"
+     ]
+    },
+    {
+     "shape": "Titre 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      -2.24,
+      3.03,
+      6.7,
+      1.45
+     ],
+     "paragraphs": [
+      "L’ÉQUIPE PROJET"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Image 6",
+     "left": 1.96,
+     "top": -0.28,
+     "width": 12.12,
+     "height": 6.89,
+     "format": "png",
+     "sha1": "9c66bcb2ab00",
+     "illustration_freepik": false,
+     "px": [
+      1000,
+      568
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mj-lt": 2
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "Manque designer, copywriter, SEO SEA",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 12,
+   "hidden": true,
+   "layout_source": "Free",
+   "title": "DÉFINITION DES RÔLES",
+   "texts": [
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "DÉFINITION DES RÔLES"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "12"
+     ]
+    },
+    {
+     "shape": "TextBox 53",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.26,
+      3.22,
+      1.98,
+      0.53
+     ],
+     "paragraphs": [
+      "Phase d’analyse"
+     ]
+    },
+    {
+     "shape": "TextBox 54",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.24,
+      4.13,
+      1.98,
+      0.53
+     ],
+     "paragraphs": [
+      "Phase de lancement"
+     ]
+    },
+    {
+     "shape": "TextBox 57",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.26,
+      5.28,
+      1.98,
+      0.9
+     ],
+     "paragraphs": [
+      "Phase",
+      "d’implementation"
+     ]
+    },
+    {
+     "shape": "TextBox 58",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.26,
+      2.13,
+      1.98,
+      0.43
+     ],
+     "paragraphs": [
+      "Chef de projet"
+     ]
+    },
+    {
+     "shape": "TextBox 59",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.4,
+      2.13,
+      1.98,
+      0.43
+     ],
+     "paragraphs": [
+      "Analyste d'affaires"
+     ]
+    },
+    {
+     "shape": "TextBox 60",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      6.64,
+      2.13,
+      1.98,
+      0.43
+     ],
+     "paragraphs": [
+      "Configurateur"
+     ]
+    },
+    {
+     "shape": "TextBox 61",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.89,
+      2.13,
+      1.98,
+      0.43
+     ],
+     "paragraphs": [
+      "Développeur"
+     ]
+    },
+    {
+     "shape": "TextBox 63",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      11.05,
+      2.13,
+      1.98,
+      0.43
+     ],
+     "paragraphs": [
+      "Architecte"
+     ]
+    },
+    {
+     "shape": "TextBox 65",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.3,
+      2.59,
+      1.93,
+      1.58
+     ],
+     "paragraphs": [
+      "Initiation et coordination",
+      "Documentation et communication",
+      "Planification et estimation"
+     ]
+    },
+    {
+     "shape": "TextBox 67",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.3,
+      4.06,
+      1.91,
+      0.63
+     ],
+     "paragraphs": [
+      "Planification et coordination des tâches"
+     ]
+    },
+    {
+     "shape": "TextBox 68",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.35,
+      4.57,
+      1.91,
+      2.45
+     ],
+     "paragraphs": [
+      "Surveillance et réunions de projet",
+      "Gestion des délais",
+      "Réunions et validation",
+      "Support et communication",
+      "Tests et rapports",
+      "Implication dans le comité de pilotage"
+     ]
+    },
+    {
+     "shape": "TextBox 118",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.35,
+      2.59,
+      2.11,
+      1.39
+     ],
+     "paragraphs": [
+      "Découverte et analyse",
+      "Architecture fonctionnelle",
+      "Communication et planification"
+     ]
+    },
+    {
+     "shape": "TextBox 119",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.41,
+      4.06,
+      2.07,
+      0.45
+     ],
+     "paragraphs": [
+      "Description des tâches et délégation"
+     ]
+    },
+    {
+     "shape": "TextBox 120",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.35,
+      4.57,
+      2.24,
+      1.92
+     ],
+     "paragraphs": [
+      "Spécification et développement",
+      "Test et validation",
+      "Réunions et communication",
+      "Gestion des retours",
+      "Formation et support",
+      "Plan de test"
+     ]
+    },
+    {
+     "shape": "TextBox 121",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      6.59,
+      2.59,
+      2.11,
+      0.86
+     ],
+     "paragraphs": [
+      "Support à l'initiation",
+      "Collaboration sur l'emploi du temps"
+     ]
+    },
+    {
+     "shape": "TextBox 122",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.83,
+      2.59,
+      1.99,
+      0.86
+     ],
+     "paragraphs": [
+      "Estimation des tâches",
+      "Assistance dans la planification du projet"
+     ]
+    },
+    {
+     "shape": "TextBox 123",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      11.0,
+      2.59,
+      1.99,
+      1.39
+     ],
+     "paragraphs": [
+      "Conception de solution technique",
+      "Évaluation des tâches",
+      "Assistance dans la planification du projet"
+     ]
+    },
+    {
+     "shape": "TextBox 124",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      6.59,
+      4.57,
+      2.16,
+      1.39
+     ],
+     "paragraphs": [
+      "Configuration logicielle",
+      "Gestion et support des données",
+      "Assistance dans diverses tâches"
+     ]
+    },
+    {
+     "shape": "TextBox 125",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.83,
+      4.57,
+      2.14,
+      1.66
+     ],
+     "paragraphs": [
+      "Installation de logiciels",
+      "Personnalisation et développement",
+      "Gestion des données",
+      "Support et formation",
+      "Supervision technique"
+     ]
+    },
+    {
+     "shape": "TextBox 126",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      11.06,
+      4.57,
+      1.99,
+      1.13
+     ],
+     "paragraphs": [
+      "Spécification technique",
+      "Assistance lors des réunions avec les vous",
+      "Support"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Group 131",
+     "enfants": 9,
+     "size": [
+      12.81,
+      5.44
+     ]
+    },
+    {
+     "path": "Group 131/Group 33",
+     "enfants": 2,
+     "size": [
+      12.8,
+      0.0
+     ]
+    },
+    {
+     "path": "Group 131/Group 34",
+     "enfants": 2,
+     "size": [
+      12.79,
+      0.0
+     ]
+    },
+    {
+     "path": "Group 131/Group 130",
+     "enfants": 2,
+     "size": [
+      0.0,
+      5.18
+     ]
+    },
+    {
+     "path": "Group 131/Group 129",
+     "enfants": 2,
+     "size": [
+      0.0,
+      5.18
+     ]
+    },
+    {
+     "path": "Group 131/Group 128",
+     "enfants": 2,
+     "size": [
+      0.0,
+      5.18
+     ]
+    },
+    {
+     "path": "Group 131/Group 127",
+     "enfants": 2,
+     "size": [
+      0.0,
+      5.18
+     ]
+    }
+   ],
+   "connectors": 12,
+   "autoshapes_with_text": 0,
+   "textboxes": 20,
+   "colors": {
+    "223843": 43,
+    "BA131A": 9,
+    "714B67": 9
+   },
+   "fonts": {
+    "+mj-lt": 54
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [],
+   "gradients": 9,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "MASQUÉE -> remasquer"
+   ]
+  },
+  {
+   "n": 13,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "UN LOGICIEL, UNE SUCCESS STORY",
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "13"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4294967295,
+     "pos": [
+      0.92,
+      2.14,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "UN LOGICIEL, UNE SUCCESS STORY"
+     ]
+    },
+    {
+     "shape": "Titre 1",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.92,
+      3.75,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "DÉMONSTRATION"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 16",
+     "left": 3.48,
+     "top": -0.57,
+     "width": 6.38,
+     "height": 3.44,
+     "format": "png",
+     "sha1": "e32539d389a9",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 1,
+   "colors": {},
+   "fonts": {
+    "Trebuchet MS": 2,
+    "+mj-lt": 1,
+    "+mn-ea": 2,
+    "+mj-ea": 1,
+    "+mn-cs": 2,
+    "+mj-cs": 1
+   },
+   "old_violets": [],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 0,
+   "notes": "C’est parti pour la démonstration. {Consultant} va prendre la main et faire la démonstration. {Consultant}, tu as jusqu’à ..h..\n\nMerci {Consultant} pour la démonstration. Qu’est-ce que vous en pensez? Etes-vous convaincus?\n",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 14,
+   "hidden": false,
+   "layout_source": "Circle right + content",
+   "title": "NOTRE VISION D’UN PROJET RÉUSSI",
+   "texts": [
+    {
+     "shape": "Titre 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.24,
+      2.08,
+      6.43,
+      3.35
+     ],
+     "paragraphs": [
+      "NOTRE VISION D’UN PROJET RÉUSSI"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "14"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Espace réservé du contenu 6",
+     "left": 6.67,
+     "top": 1.47,
+     "width": 4.55,
+     "height": 4.55,
+     "format": "png",
+     "sha1": "90489895eb0d",
+     "illustration_freepik": true,
+     "svg": true,
+     "px": [
+      1000,
+      1000
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mj-lt": 4
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Parlons désormais de notre vision d’un projet réussi\n",
+   "comments": [],
+   "hints": [
+    "SECTION probable",
+    "Illustration Freepik/amico -> NE PAS réimporter"
+   ]
+  },
+  {
+   "n": 15,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": "SOYEZ EN LIGNE RAPIDEMENT",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      2.3,
+      3.01,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 11,
+     "pos": [
+      5.62,
+      3.0,
+      2.07,
+      2.04
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      8.95,
+      3.0,
+      2.06,
+      2.04
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      2.19,
+      5.13,
+      2.29,
+      0.53
+     ],
+     "paragraphs": [
+      "RESTEZ PROCHE",
+      "DES STANDARDS"
+     ]
+    },
+    {
+     "shape": "Titre 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "SOYEZ EN LIGNE RAPIDEMENT"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "15"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.52,
+      5.13,
+      2.29,
+      0.53
+     ],
+     "paragraphs": [
+      "APPROCHE",
+      "MVP"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.72,
+      5.13,
+      2.56,
+      0.53
+     ],
+     "paragraphs": [
+      "ANALYSE",
+      "D’IMPLÉMENTATION"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {},
+   "fonts": {
+    "+mn-lt": 10,
+    "Trebuchet MS": 8,
+    "+mn-ea": 18,
+    "+mn-cs": 18
+   },
+   "old_violets": [],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 0,
+   "notes": "Notre objectif principal est de lancer le produit aussi rapidement que possible. \n\nPour y parvenir, nous allons rester proche du standard. \n\nComme expliqué précédemment, nous effectuerons une analyse d’implémentation pour définir collaborativement le Produit Minimum Viable (MVP). Lors de cette analyse, nous explorerons comment intégrer vos processus actuels dans le cadre standard d'Odoo de la manière la plus fluide possible.\n\nNous reporterons les améliorations et évolutions supplémentaires aux versions futures, telles que les versions 2 ou 3.\n\nLa logique derrière cette approche est que vos retours seront plus précieux et pertinents une fois que vous utiliserez activement le logiciel, plutôt que d'anticiper comment vous pourriez l'utiliser.",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 16,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": "NOUS AVANÇONS ENSEMBLE TOUT AU LONG DE VOTRE PROJET !",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      1.99,
+      5.04,
+      2.7,
+      0.77
+     ],
+     "paragraphs": [
+      "FORMATION KEY USERS EN CONTINUE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      5.33,
+      5.04,
+      2.7,
+      0.77
+     ],
+     "paragraphs": [
+      "SUIVI",
+      "HEBDOMADAIRE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      8.66,
+      5.04,
+      2.68,
+      0.77
+     ],
+     "paragraphs": [
+      "VALIDATION",
+      "PAR ÉTAPE"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "NOUS AVANÇONS ENSEMBLE TOUT AU LONG DE VOTRE PROJET !"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 20",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.0,
+      2.12,
+      5.14,
+      0.56
+     ],
+     "paragraphs": [
+      "1 ÉQUIPE CAPTIVEA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 21",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.24,
+      2.12,
+      5.09,
+      0.56
+     ],
+     "paragraphs": [
+      "1 ÉQUIPE CLIENT"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "16"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Google Shape;10674;p75",
+     "enfants": 2,
+     "size": [
+      0.9,
+      0.87
+     ]
+    },
+    {
+     "path": "Google Shape;11682;p77",
+     "enfants": 6,
+     "size": [
+      0.92,
+      0.91
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {
+    "212529": 12,
+    "435D74": 2,
+    "AE1C26": 1,
+    "714B67": 1,
+    "BA131A": 1
+   },
+   "fonts": {
+    "+mn-lt": 26,
+    "+mj-lt": 4,
+    "Trebuchet MS": 10,
+    "+mn-ea": 37,
+    "Gotham Bold": 3,
+    "+mn-cs": 37
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [
+    "Gotham Bold",
+    "Trebuchet MS"
+   ],
+   "gradients": 1,
+   "notes": "Nous sommes enthousiastes à l'idée d'entreprendre ce projet avec vous et nous croyons fermement que travailler ensemble en tant qu'équipe soudée sera la clé de sa réussite. \n\nTout au long du projet, nous fournirons une formation continue aux utilisateurs clés afin de nous assurer qu'ils s’approprient le logiciel.\n\nNous nous engageons à maintenir une communication étroite et à effectuer des suivis hebdomadaires avec vous. \n\nNotre objectif est de valider ensemble chaque étape du processus de mise en œuvre, garantissant ainsi que nous atteignons nos objectifs de manière efficace et efficiente.",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "2 éléments parallèles possibles (taille ~5.0x1.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 17,
+   "hidden": false,
+   "layout_source": "3 Dots",
+   "title": "SOYEZ LIBRES DE CHANGER D’AVIS EN TOUTE TRANSPARENCE !",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      2.3,
+      3.01,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 11,
+     "pos": [
+      5.62,
+      3.0,
+      2.07,
+      2.04
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      8.95,
+      3.0,
+      2.06,
+      2.04
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      1.99,
+      5.04,
+      2.7,
+      0.77
+     ],
+     "paragraphs": [
+      "PÉRIMÈTRE FONCTIONNEL"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      5.33,
+      5.04,
+      2.7,
+      0.77
+     ],
+     "paragraphs": [
+      "TIMELINE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      8.66,
+      5.04,
+      2.68,
+      0.77
+     ],
+     "paragraphs": [
+      "NIVEAU DE SERVICE"
+     ]
+    },
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "SOYEZ LIBRES DE CHANGER D’AVIS EN TOUTE TRANSPARENCE !"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "17"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mn-lt": 21,
+    "+mj-lt": 4,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Tout au long du projet, vous avez la liberté de changer d'avis selon vos besoins. Nous conservons une flexibilité maximale, vous permettant d'ajouter ou de supprimer des fonctionnalités et d'ajuster le calendrier en fonction de votre disponibilité.\n\nNotre rôle est de vous guider à travers ces changements et de vous expliquer leur impact sur le calendrier et la livraison du projet. \n\nDe plus, nous adapterons notre niveau de service en fonction de votre implication dans le projet. Par exemple, si des données doivent être importées, nous pouvons soit vous former pour gérer le processus d'importation dans Odoo, soit vous pouvez nous fournir les fichiers de données brutes, et nous nous chargerons de nettoyer et d'importer les données pour vous. \n\nLes deux options sont réalisables, mais le temps et les efforts nécessaires varieront en conséquence.",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 18,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "BÉNÉFICIEZ DE TOUTE NOTRE EXPERTISE",
+   "texts": [
+    {
+     "shape": "Titre 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "BÉNÉFICIEZ DE TOUTE NOTRE EXPERTISE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "18"
+     ]
+    },
+    {
+     "shape": "TextBox 1",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      3.03,
+      4.71,
+      1.3,
+      0.81
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "en logistique"
+     ]
+    },
+    {
+     "shape": "TextBox 3",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.47,
+      4.71,
+      1.53,
+      0.81
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "en comptabilité"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.23,
+      4.71,
+      1.15,
+      0.57
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "technique"
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.58,
+      4.71,
+      1.15,
+      0.57
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "des achats"
+     ]
+    },
+    {
+     "shape": "TextBox 11",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.48,
+      4.71,
+      1.3,
+      0.57
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "e-commerce"
+     ]
+    },
+    {
+     "shape": "TextBox 12",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.86,
+      4.71,
+      1.42,
+      0.81
+     ],
+     "paragraphs": [
+      "Spécialiste en",
+      "ressources",
+      "humaines"
+     ]
+    },
+    {
+     "shape": "TextBox 15",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      5.94,
+      4.71,
+      1.44,
+      0.57
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "en fabrication"
+     ]
+    },
+    {
+     "shape": "TextBox 16",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      11.93,
+      4.71,
+      1.15,
+      0.81
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "des points",
+      "de vente"
+     ]
+    },
+    {
+     "shape": "TextBox 18",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      10.45,
+      4.71,
+      1.15,
+      0.57
+     ],
+     "paragraphs": [
+      "Spécialiste",
+      "CRM"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 2",
+     "left": 0.59,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "5184affad2da",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 6",
+     "left": 2.07,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "932435746ee6",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 25",
+     "left": 3.54,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "3236a7152eb2",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 14",
+     "left": 5.0,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "a0e1ab8eac58",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 27",
+     "left": 7.93,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "da5ebeb5f6ac",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 26",
+     "left": 6.47,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "2e06b86541c8",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 20",
+     "left": 9.39,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "3f8590429746",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 22",
+     "left": 12.32,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "d632e61b3e92",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    },
+    {
+     "name": "Graphic 53",
+     "left": 10.86,
+     "top": 3.91,
+     "width": 0.39,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "5f6df9eee786",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      48,
+      48
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 111",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 114",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 117",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 120",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 123",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 126",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 129",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 132",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 135",
+     "enfants": 2,
+     "size": [
+      0.81,
+      0.91
+     ]
+    }
+   ],
+   "connectors": 8,
+   "autoshapes_with_text": 0,
+   "textboxes": 9,
+   "colors": {
+    "223843": 38,
+    "714B67": 26,
+    "BA131A": 9
+   },
+   "fonts": {
+    "+mn-ea": 47,
+    "+mn-cs": 35,
+    "Arial": 12
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [
+    "Arial"
+   ],
+   "gradients": 9,
+   "notes": "Chez Captivea, nous sommes une équipe de consultants hautement expérimentés. Nous collaborons étroitement et pouvons déployer un consultant avec une expertise spécifique sur n'importe quel projet selon les besoins.\n\n",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "8 éléments parallèles possibles (taille ~1.0x1.0 in) -> masque à 8 ?"
+   ]
+  },
+  {
+   "n": 19,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "LES ÉTAPES VERS UN PROJET RÉUSSI",
+   "texts": [
+    {
+     "shape": "Titre 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "LES ÉTAPES VERS UN PROJET RÉUSSI"
+     ]
+    },
+    {
+     "shape": "Hexagon 18",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      6.22,
+      5.14,
+      2.34,
+      2.03
+     ],
+     "paragraphs": [
+      "Formations &",
+      "démarrage"
+     ]
+    },
+    {
+     "shape": "Hexagon 33",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      4.15,
+      5.14,
+      2.34,
+      2.03
+     ],
+     "paragraphs": [
+      "Lancement &",
+      "support"
+     ]
+    },
+    {
+     "shape": "Hexagon 34",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      6.45,
+      1.73,
+      1.9,
+      2.06
+     ],
+     "paragraphs": [
+      "Analyses"
+     ]
+    },
+    {
+     "shape": "Hexagon 39",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.24,
+      3.33,
+      2.34,
+      2.03
+     ],
+     "paragraphs": [
+      "Implémentation",
+      "&",
+      "Déploiement"
+     ]
+    },
+    {
+     "shape": "Hexagon 41",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      3.12,
+      3.33,
+      2.34,
+      2.03
+     ],
+     "paragraphs": [
+      "Mesures &",
+      "adaptations"
+     ]
+    },
+    {
+     "shape": "Hexagon 58",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.97,
+      1.6,
+      0.84,
+      0.73
+     ],
+     "paragraphs": [
+      "01"
+     ]
+    },
+    {
+     "shape": "Hexagon 59",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.0,
+      3.4,
+      0.84,
+      0.73
+     ],
+     "paragraphs": [
+      "02"
+     ]
+    },
+    {
+     "shape": "Hexagon 60",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.98,
+      6.38,
+      0.84,
+      0.73
+     ],
+     "paragraphs": [
+      "03"
+     ]
+    },
+    {
+     "shape": "Hexagon 61",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      3.88,
+      6.38,
+      0.84,
+      0.73
+     ],
+     "paragraphs": [
+      "04"
+     ]
+    },
+    {
+     "shape": "Hexagon 62",
+     "kind": "forme",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.86,
+      3.4,
+      0.84,
+      0.73
+     ],
+     "paragraphs": [
+      "05"
+     ]
+    },
+    {
+     "shape": "Groupe 64/ZoneTexte 66",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.36,
+      1.68,
+      1.9,
+      0.4
+     ],
+     "paragraphs": [
+      "DEMARRAGE"
+     ]
+    },
+    {
+     "shape": "Groupe 67/ZoneTexte 68",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.76,
+      2.73,
+      2.03,
+      0.3
+     ],
+     "paragraphs": [
+      "Liste des exigences"
+     ]
+    },
+    {
+     "shape": "Groupe 70/ZoneTexte 71",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.76,
+      2.74,
+      2.03,
+      0.3
+     ],
+     "paragraphs": [
+      "Validation du domaine"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 73",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.93,
+      1.74,
+      2.72,
+      0.45
+     ],
+     "paragraphs": [
+      "BESOINS & EXIGENCES"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 74",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.95,
+      3.29,
+      3.22,
+      0.91
+     ],
+     "paragraphs": [
+      "PERSONNALISATION DE L’ERP",
+      "TEST"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 75",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.92,
+      6.42,
+      3.22,
+      0.64
+     ],
+     "paragraphs": [
+      "FORMATION DES UTILISATEURS",
+      "MIGRATION DES DONNEES"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 76",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.16,
+      6.25,
+      3.62,
+      1.01
+     ],
+     "paragraphs": [
+      "HAUTE DISPONIBILITÉ PENDANT LES PREMIÈRES SEMAINES D’UTILISATION",
+      "RÉACTIVITÉ"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 77",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.14,
+      3.26,
+      2.63,
+      1.01
+     ],
+     "paragraphs": [
+      "DEFINIR LES EVOLUTIONS",
+      "PREPARER LA PROCHAINE ÉTAPE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "19"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 1",
+     "left": 5.64,
+     "top": 3.44,
+     "width": 1.41,
+     "height": 1.62,
+     "format": "png",
+     "sha1": "d58e59c387db",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1126,
+      1296
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 64",
+     "enfants": 2,
+     "size": [
+      2.33,
+      1.06
+     ]
+    },
+    {
+     "path": "Groupe 67",
+     "enfants": 2,
+     "size": [
+      2.23,
+      0.33
+     ]
+    },
+    {
+     "path": "Groupe 70",
+     "enfants": 2,
+     "size": [
+      2.23,
+      0.33
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 10,
+   "textboxes": 8,
+   "colors": {
+    "212529": 11,
+    "FFFFFF": 5,
+    "8F8F8F": 2,
+    "57565A": 2
+   },
+   "fonts": {
+    "+mj-lt": 2,
+    "+mn-lt": 9,
+    "+mn-ea": 46,
+    "+mn-cs": 46
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "5 éléments parallèles possibles (taille ~2.0x2.0 in) -> masque à 5 ?"
+   ]
+  },
+  {
+   "n": 20,
+   "hidden": false,
+   "layout_source": "Circle right + content",
+   "title": "PHASE D’ANALYSE",
+   "texts": [
+    {
+     "shape": "Titre 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.24,
+      2.08,
+      6.43,
+      3.35
+     ],
+     "paragraphs": [
+      "PHASE D’ANALYSE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "20"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Espace réservé du contenu 6",
+     "left": 6.72,
+     "top": 1.47,
+     "width": 4.55,
+     "height": 4.55,
+     "format": "png",
+     "sha1": "e09d220bc6af",
+     "illustration_freepik": true,
+     "svg": true,
+     "px": [
+      1000,
+      1000
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mj-lt": 2,
+    "+mn-lt": 9,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "SECTION probable",
+    "Illustration Freepik/amico -> NE PAS réimporter"
+   ]
+  },
+  {
+   "n": 21,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "PHASE D’ANALYSE PROGRESSION DE L’ANALYSE",
+   "texts": [
+    {
+     "shape": "Titre 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "PHASE D’ANALYSE PROGRESSION DE L’ANALYSE"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 7",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.17,
+      3.27,
+      3.72,
+      0.81
+     ],
+     "paragraphs": [
+      "ANALYSE Nous définissons et concevons le périmètre de votre projet en collaboration avec vous."
+     ]
+    },
+    {
+     "shape": "ZoneTexte 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.18,
+      5.88,
+      3.77,
+      0.98
+     ],
+     "paragraphs": [
+      "ESTIMATION & PLANIFICATION Vous recevez une estimation détaillée et un calendrier à approuver avant le début du projet."
+     ]
+    },
+    {
+     "shape": "Groupe 79/ZoneTexte 23",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      4.69,
+      2.17,
+      1.39,
+      0.3
+     ],
+     "paragraphs": [
+      "Kick - Off"
+     ]
+    },
+    {
+     "shape": "Groupe 79/ZoneTexte 53",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.45,
+      2.12,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Délimitation du projet et définition de l'équipe"
+     ]
+    },
+    {
+     "shape": "Groupe 79/ZoneTexte 58",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.21,
+      2.12,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Définition des canaux de communication"
+     ]
+    },
+    {
+     "shape": "Groupe 79/ZoneTexte 63",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      9.9,
+      2.2,
+      1.64,
+      0.25
+     ],
+     "paragraphs": [
+      "Définition du workflow"
+     ]
+    },
+    {
+     "shape": "Groupe 78/ZoneTexte 24",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      4.69,
+      2.79,
+      1.39,
+      0.5
+     ],
+     "paragraphs": [
+      "Découverte métier"
+     ]
+    },
+    {
+     "shape": "Groupe 78/ZoneTexte 54",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.46,
+      2.84,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Analyse des objectifs du projet"
+     ]
+    },
+    {
+     "shape": "Groupe 78/ZoneTexte 59",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.22,
+      2.84,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Audit des systèmes existants"
+     ]
+    },
+    {
+     "shape": "Groupe 78/ZoneTexte 64",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      9.91,
+      2.84,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Définition des besoins en personnalisation"
+     ]
+    },
+    {
+     "shape": "Groupe 77/ZoneTexte 25",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      4.64,
+      3.56,
+      1.39,
+      0.5
+     ],
+     "paragraphs": [
+      "Ateliers",
+      "1, 2, n"
+     ]
+    },
+    {
+     "shape": "Groupe 77/ZoneTexte 55",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.46,
+      3.61,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Analyse des besoins par domaine vs standard"
+     ]
+    },
+    {
+     "shape": "Groupe 77/ZoneTexte 60",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.22,
+      3.54,
+      1.64,
+      0.56
+     ],
+     "paragraphs": [
+      "Création et développement de la structure du projet"
+     ]
+    },
+    {
+     "shape": "Groupe 77/ZoneTexte 65",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      9.91,
+      3.69,
+      1.64,
+      0.25
+     ],
+     "paragraphs": [
+      "Création des livrables"
+     ]
+    },
+    {
+     "shape": "Groupe 76/ZoneTexte 26",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      4.69,
+      4.31,
+      1.4,
+      0.5
+     ],
+     "paragraphs": [
+      "Présentation de l’analyse"
+     ]
+    },
+    {
+     "shape": "Groupe 76/ZoneTexte 56",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.44,
+      4.36,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Définition des exigences du projet"
+     ]
+    },
+    {
+     "shape": "Groupe 76/ZoneTexte 61",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.22,
+      4.43,
+      1.64,
+      0.25
+     ],
+     "paragraphs": [
+      "Priorisation des tâches"
+     ]
+    },
+    {
+     "shape": "Groupe 76/ZoneTexte 66",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      9.91,
+      4.36,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Définition du calendrier de mise en œuvre"
+     ]
+    },
+    {
+     "shape": "Groupe 75/ZoneTexte 27",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      4.69,
+      5.06,
+      1.4,
+      0.5
+     ],
+     "paragraphs": [
+      "Retours & Validation"
+     ]
+    },
+    {
+     "shape": "Groupe 75/ZoneTexte 57",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.44,
+      5.11,
+      1.64,
+      0.4
+     ],
+     "paragraphs": [
+      "Gestion des retours (feedback)"
+     ]
+    },
+    {
+     "shape": "Groupe 75/ZoneTexte 62",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.22,
+      5.19,
+      1.64,
+      0.25
+     ],
+     "paragraphs": [
+      "Ajustement du projet"
+     ]
+    },
+    {
+     "shape": "Groupe 75/ZoneTexte 67",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      9.91,
+      5.19,
+      1.64,
+      0.25
+     ],
+     "paragraphs": [
+      "Validation du projet"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "21"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 9",
+     "enfants": 2,
+     "size": [
+      0.54,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 9/Google Shape;10712;p75",
+     "enfants": 2,
+     "size": [
+      0.44,
+      0.42
+     ]
+    },
+    {
+     "path": "Groupe 14",
+     "enfants": 2,
+     "size": [
+      0.54,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 14/Google Shape;10680;p75",
+     "enfants": 2,
+     "size": [
+      0.34,
+      0.34
+     ]
+    },
+    {
+     "path": "Groupe 79",
+     "enfants": 8,
+     "size": [
+      6.85,
+      0.45
+     ]
+    },
+    {
+     "path": "Groupe 78",
+     "enfants": 8,
+     "size": [
+      6.86,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 77",
+     "enfants": 8,
+     "size": [
+      6.91,
+      0.56
+     ]
+    },
+    {
+     "path": "Groupe 77/Groupe 28",
+     "enfants": 3,
+     "size": [
+      1.49,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 77/Groupe 28/Groupe 29",
+     "enfants": 2,
+     "size": [
+      1.49,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 76",
+     "enfants": 8,
+     "size": [
+      6.86,
+      0.54
+     ]
+    },
+    {
+     "path": "Groupe 75",
+     "enfants": 8,
+     "size": [
+      6.86,
+      0.54
+     ]
+    }
+   ],
+   "connectors": 3,
+   "autoshapes_with_text": 0,
+   "textboxes": 22,
+   "colors": {
+    "714B67": 28,
+    "BA131A": 16,
+    "7B435D": 14,
+    "435D74": 4
+   },
+   "fonts": {
+    "+mj-lt": 4,
+    "+mn-lt": 9,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [
+    "714B67",
+    "7B435D"
+   ],
+   "old_fonts": [],
+   "gradients": 16,
+   "notes": "Notre objectif principal est de définir et concevoir ensemble la portée de votre projet. \n\nVoici comment nous allons procéder :\n\nNous commencerons par une réunion de lancement où nous définirons le périmètre de votre projet et identifierons les membres de l'équipe qui travailleront avec vous. Lors de cette phase, nous établirons également les flux de travail qui nous guideront tout au long du projet.\n\nEnsuite, nous effectuerons une découverte approfondie de votre entreprise. Cela implique de comprendre en détail votre entreprise, vos objectifs et vos défis. Nous examinerons également vos systèmes actuels pour voir ce qui fonctionne bien et où des améliorations peuvent être apportées.\n\nPar la suite, nous organiserons des ateliers axés sur différents domaines fonctionnels. Ces ateliers visent à approfondir vos besoins spécifiques et à identifier les meilleures façons de mettre en œuvre Odoo pour répondre à ces besoins. Nous déterminerons quels aspects peuvent être couverts par les fonctionnalités standard du logiciel et quels domaines pourraient nécessiter une personnalisation.\n\nEnfin, nous vous présenterons notre analyse et recueillerons vos commentaires. Nous ferons plusieurs allers-retours d'ajustements pour nous assurer que tout est parfaitement aligné avec vos attentes. Une fois que nous aurons intégré vos retours, nous validerons le plan final avec vous.\n",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)"
+   ]
+  },
+  {
+   "n": 22,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "PHASE D’ANALYSE LIVRABLES À LA FIN D'UNE ANALYSE",
+   "texts": [
+    {
+     "shape": "Titre 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "PHASE D’ANALYSE LIVRABLES À LA FIN D'UNE ANALYSE"
+     ]
+    },
+    {
+     "shape": "Group 7/Rectangle: Rounded Corners 15",
+     "kind": "forme",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      7.54,
+      1.92,
+      2.44,
+      0.75
+     ],
+     "paragraphs": [
+      "LISTE DÉTAILLÉE DES EXIGENCES"
+     ]
+    },
+    {
+     "shape": "Group 2/Rectangle: Rounded Corners 6",
+     "kind": "forme",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      1.35,
+      2.54,
+      3.12,
+      0.85
+     ],
+     "paragraphs": [
+      "PRÉSENTATION DE L'ANALYSE"
+     ]
+    },
+    {
+     "shape": "Group 10/Rectangle: Rounded Corners 42",
+     "kind": "forme",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      5.41,
+      6.46,
+      2.87,
+      0.75
+     ],
+     "paragraphs": [
+      "PRÉSENTATION FINALE"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.23,
+      3.63,
+      3.6,
+      2.73
+     ],
+     "paragraphs": [
+      "Maquette de tableau de bord",
+      "Périmètre du projet adressé (standard et non standard)",
+      "Budget",
+      "Chronologie du projet",
+      "Organigramme du projet"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.36,
+      3.63,
+      3.6,
+      2.77
+     ],
+     "paragraphs": [
+      "Tâches fonctionnelles",
+      "incluses",
+      "Tâches fonctionnelles",
+      "exclues",
+      "Exigences de gestion",
+      "et de qualité",
+      "Estimations, avancement,",
+      "classification par phase..."
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "22"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 40",
+     "left": 6.52,
+     "top": 3.02,
+     "width": 2.15,
+     "height": 3.39,
+     "format": "png",
+     "sha1": "f287d2da58d6",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      384,
+      606
+     ]
+    },
+    {
+     "name": "Graphic 12",
+     "left": 4.59,
+     "top": 3.05,
+     "width": 2.15,
+     "height": 3.39,
+     "format": "png",
+     "sha1": "f287d2da58d6",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      384,
+      606
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Group 16",
+     "enfants": 2,
+     "size": [
+      4.07,
+      4.03
+     ]
+    },
+    {
+     "path": "Group 7",
+     "enfants": 2,
+     "size": [
+      4.29,
+      4.48
+     ]
+    },
+    {
+     "path": "Group 2",
+     "enfants": 2,
+     "size": [
+      4.29,
+      4.48
+     ]
+    },
+    {
+     "path": "Group 10",
+     "enfants": 2,
+     "size": [
+      3.29,
+      1.09
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 3,
+   "textboxes": 2,
+   "colors": {
+    "714B67": 3,
+    "BA131A": 3,
+    "223843": 3
+   },
+   "fonts": {
+    "+mj-lt": 4,
+    "+mn-lt": 9,
+    "+mn-ea": 55,
+    "+mn-cs": 55
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [],
+   "gradients": 3,
+   "notes": "Vous recevrez deux livrables clés de notre part.\n\nLe premier est une présentation PowerPoint, conçue avec des diagrammes clairs et des explications simples. Ce document est élaboré pour être facilement compréhensible et vous fournira une vue d'ensemble complète de votre projet. Il inclut l'estimation, le calendrier et le budget pour vous donner une image claire de ce à quoi vous attendre.\n\nLe second livrable est une liste détaillée des exigences, fournie sous forme de fichier Excel. Ce fichier décrit toutes les tâches nécessaires à votre projet, couvrant des domaines tels que la configuration, le développement, la formation et la gestion de projet. Bien qu'il soit très détaillé et peut-être moins facile à lire que la présentation, il est crucial pour s'assurer que tous les besoins de votre projet sont bien couverts. Nous vous encourageons à le revoir attentivement pour confirmer que nous avons pris en compte chaque aspect de vos exigences.\n",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "2 éléments parallèles possibles (taille ~3.0x1.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 23,
+   "hidden": false,
+   "layout_source": "Circle right + content",
+   "title": "APPROCHE BUDGÉTAIRE",
+   "texts": [
+    {
+     "shape": "Titre 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.24,
+      2.08,
+      6.43,
+      3.35
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "23"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Espace réservé du contenu 6",
+     "left": 6.67,
+     "top": 1.47,
+     "width": 4.55,
+     "height": 4.55,
+     "format": "png",
+     "sha1": "7e1e08105a8d",
+     "illustration_freepik": true,
+     "svg": true,
+     "px": [
+      1000,
+      1000
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {
+    "+mj-lt": 2,
+    "+mn-lt": 9,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "SECTION probable",
+    "Illustration Freepik/amico -> NE PAS réimporter"
+   ]
+  },
+  {
+   "n": 24,
+   "hidden": false,
+   "layout_source": "4 Dots - Aligned",
+   "title": "NOTRE OFFRE DE PRIX",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.88,
+      4.88,
+      2.07,
+      0.53
+     ],
+     "paragraphs": [
+      "ANALYSE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      3.79,
+      4.88,
+      2.61,
+      0.77
+     ],
+     "paragraphs": [
+      "LICENCES ET HÉBERGEMENT",
+      "/an, Facturé par Odoo"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      10.31,
+      4.88,
+      2.16,
+      0.65
+     ],
+     "paragraphs": [
+      "ACHATS DE MODULES SUPPLÉMENTAIRES"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      7.22,
+      4.88,
+      2.06,
+      0.53
+     ],
+     "paragraphs": [
+      "IMPLÉMENTATION"
+     ]
+    },
+    {
+     "shape": "Titre 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "NOTRE OFFRE DE PRIX"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "24"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 27",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.9,
+      3.41,
+      1.15,
+      0.71
+     ],
+     "paragraphs": [
+      "GO NO GO"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 50",
+     "left": 4.78,
+     "top": 3.12,
+     "width": 0.63,
+     "height": 0.63,
+     "format": "png",
+     "sha1": "4af95e1a786c",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphique 25",
+     "left": 4.44,
+     "top": 3.67,
+     "width": 1.3,
+     "height": 0.53,
+     "format": "png",
+     "sha1": "e32539d389a9",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Google Shape;10712;p75",
+     "enfants": 2,
+     "size": [
+      0.91,
+      0.91
+     ]
+    },
+    {
+     "path": "Groupe 26",
+     "enfants": 2,
+     "size": [
+      1.23,
+      1.03
+     ]
+    },
+    {
+     "path": "Google Shape;11558;p77",
+     "enfants": 2,
+     "size": [
+      0.91,
+      0.91
+     ]
+    },
+    {
+     "path": "Google Shape;10957;p75",
+     "enfants": 8,
+     "size": [
+      0.91,
+      0.91
+     ]
+    }
+   ],
+   "connectors": 1,
+   "autoshapes_with_text": 0,
+   "textboxes": 1,
+   "colors": {
+    "435D74": 10
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Dans cette section, nous allons détailler notre offre pour la phase d'analyse, fournir une estimation pour la mise en œuvre et détailler les tarifs pour les licences et l'hébergement.\n\nJe tiens à souligner que vous n'aurez besoin d'acquérir la licence qu'après la finalisation de l'analyse. Cela signifie qu'en commençant par l'analyse, vous ne vous engagez pas sur la licence dès le départ. Cette approche garantit que vous pouvez avancer avec la licence uniquement lorsque vous êtes convaincu que le système répond pleinement à vos besoins.\n",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)"
+   ]
+  },
+  {
+   "n": 25,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "DIVERSES OPTIONS D'HÉBERGEMENT ODOO",
+   "texts": [
+    {
+     "shape": "Titre 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "DIVERSES OPTIONS D'HÉBERGEMENT ODOO"
+     ]
+    },
+    {
+     "shape": "Group 16/Group 12/TextBox 26",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      1.53,
+      2.76,
+      1.54,
+      0.35
+     ],
+     "paragraphs": [
+      "ODOO CLOUD (SAAS)"
+     ]
+    },
+    {
+     "shape": "Group 16/Group 12/TextBox 34",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      0.77,
+      3.14,
+      2.96,
+      2.63
+     ],
+     "paragraphs": [
+      "Aucun coût supplémentaire",
+      "Toujours à jour",
+      "Pas d'apps.odoo.com",
+      "Pas de développement"
+     ]
+    },
+    {
+     "shape": "Group 17/Group 9/TextBox 37",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      9.12,
+      3.14,
+      2.94,
+      2.65
+     ],
+     "paragraphs": [
+      "La connaissance de",
+      "l'installation d'Odoo est requise",
+      "Un contrat clair et réel",
+      "de services d'hébergement est",
+      "nécessaire",
+      "Il existe des limitations et",
+      "des difficultés dans la gestion",
+      "de projet",
+      "Vous devez effectuer des",
+      "mises à jour de sécurité",
+      "Vous devez disposer",
+      "d'une équipe DSI"
+     ]
+    },
+    {
+     "shape": "Group 17/Group 9/TextBox 28",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      9.82,
+      2.76,
+      1.54,
+      0.35
+     ],
+     "paragraphs": [
+      "SUR SITE"
+     ]
+    },
+    {
+     "shape": "Group 6/Group 10/TextBox 77",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      5.71,
+      2.76,
+      1.54,
+      0.35
+     ],
+     "paragraphs": [
+      "ODOO SH (PAAS)"
+     ]
+    },
+    {
+     "shape": "Group 6/Group 10/TextBox 35",
+     "kind": "textbox",
+     "depth": 2,
+     "ph_idx": null,
+     "pos": [
+      4.87,
+      3.15,
+      2.97,
+      2.65
+     ],
+     "paragraphs": [
+      "Coût supplémentaire",
+      "Tout intégré pour une gestion",
+      "de projet efficace",
+      "Tous les correctifs de sécurité",
+      "Automatiques",
+      "Hébergement et services",
+      "à faible coût",
+      "Odoo Studio inclus"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "25"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphic 41",
+     "left": 2.64,
+     "top": 1.59,
+     "width": 0.72,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "1de4d95d5ab8",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    },
+    {
+     "name": "Graphic 43",
+     "left": 2.61,
+     "top": 0.99,
+     "width": 0.78,
+     "height": 0.78,
+     "format": "png",
+     "sha1": "9c1264d96d70",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 47",
+     "left": 2.66,
+     "top": 5.58,
+     "width": 0.67,
+     "height": 0.67,
+     "format": "png",
+     "sha1": "3943fbee6376",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 50",
+     "left": 2.69,
+     "top": 3.32,
+     "width": 0.63,
+     "height": 0.63,
+     "format": "png",
+     "sha1": "d88028a45880",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      28,
+      28
+     ]
+    },
+    {
+     "name": "Graphic 2",
+     "left": 11.75,
+     "top": 5.71,
+     "width": 0.72,
+     "height": 0.39,
+     "format": "png",
+     "sha1": "1de4d95d5ab8",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      1838,
+      990
+     ]
+    },
+    {
+     "name": "Graphic 15",
+     "left": 7.86,
+     "top": 2.46,
+     "width": 0.4,
+     "height": 0.4,
+     "format": "png",
+     "sha1": "332b9aaeebcd",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      56,
+      56
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Group 16",
+     "enfants": 2,
+     "size": [
+      3.68,
+      3.69
+     ]
+    },
+    {
+     "path": "Group 16/Group 12",
+     "enfants": 4,
+     "size": [
+      3.23,
+      3.21
+     ]
+    },
+    {
+     "path": "Group 16/Group 52",
+     "enfants": 3,
+     "size": [
+      1.02,
+      1.02
+     ]
+    },
+    {
+     "path": "Group 17",
+     "enfants": 2,
+     "size": [
+      3.68,
+      3.69
+     ]
+    },
+    {
+     "path": "Group 17/Group 9",
+     "enfants": 3,
+     "size": [
+      3.23,
+      3.21
+     ]
+    },
+    {
+     "path": "Group 17/Group 9/Group 82",
+     "enfants": 2,
+     "size": [
+      3.23,
+      3.21
+     ]
+    },
+    {
+     "path": "Group 17/Group 55",
+     "enfants": 2,
+     "size": [
+      1.02,
+      1.02
+     ]
+    },
+    {
+     "path": "Group 6",
+     "enfants": 3,
+     "size": [
+      3.7,
+      3.76
+     ]
+    },
+    {
+     "path": "Group 6/Group 10",
+     "enfants": 3,
+     "size": [
+      3.23,
+      3.21
+     ]
+    },
+    {
+     "path": "Group 6/Group 10/Group 76",
+     "enfants": 2,
+     "size": [
+      3.23,
+      3.21
+     ]
+    },
+    {
+     "path": "Group 6/Group 3",
+     "enfants": 2,
+     "size": [
+      1.02,
+      1.02
+     ]
+    },
+    {
+     "path": "Group 6/Group 3/Group 54",
+     "enfants": 2,
+     "size": [
+      1.02,
+      1.02
+     ]
+    },
+    {
+     "path": "Group 6/Group 8",
+     "enfants": 2,
+     "size": [
+      0.62,
+      0.62
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 6,
+   "colors": {
+    "223843": 24,
+    "714B67": 6,
+    "BA131A": 6,
+    "A52331": 3,
+    "13BA3D": 1
+   },
+   "fonts": {
+    "+mj-lt": 1,
+    "+mn-lt": 12,
+    "+mn-ea": 46,
+    "+mn-cs": 46
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [],
+   "gradients": 6,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)"
+   ]
+  },
+  {
+   "n": 26,
+   "hidden": false,
+   "layout_source": "1_3 Dots",
+   "title": "APPROCHE BUDGÉTAIRE ODOO",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      2.97,
+      2.73,
+      2.06,
+      2.03
+     ],
+     "paragraphs": [
+      "Licences",
+      "Odoo"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 11,
+     "pos": [
+      8.4,
+      2.73,
+      2.07,
+      2.04
+     ],
+     "paragraphs": [
+      "Hébergement",
+      "Odoo.SH"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      2.01,
+      4.84,
+      3.97,
+      0.78
+     ],
+     "paragraphs": [
+      "29,90€ /m/utilisateur la 1ère année",
+      "37,40€ /m/utilisateur les années suivantes"
+     ]
+    },
+    {
+     "shape": "Titre 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE ODOO"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.45,
+      4.84,
+      3.97,
+      0.78
+     ],
+     "paragraphs": [
+      "29,90€ /mois"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 5",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.96,
+      6.2,
+      9.41,
+      0.78
+     ],
+     "paragraphs": [
+      "Pour XXX utilisateurs : XXX€ la première année"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      0.0,
+      7.1,
+      0.59,
+      0.4
+     ],
+     "paragraphs": [
+      "26"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {
+    "FFFF00": 3
+   },
+   "fonts": {
+    "+mn-lt": 30,
+    "Trebuchet MS": 10,
+    "+mn-ea": 18,
+    "+mn-cs": 18
+   },
+   "old_violets": [],
+   "old_fonts": [
+    "Trebuchet MS"
+   ],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 27,
+   "hidden": false,
+   "layout_source": "Free",
+   "title": "APPROCHE BUDGÉTAIRE",
+   "texts": [
+    {
+     "shape": "Titre 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE"
+     ]
+    },
+    {
+     "shape": "Group 17/ZoneTexte 16",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      3.72,
+      3.51,
+      2.78,
+      0.81
+     ],
+     "paragraphs": [
+      "BI Analyst",
+      "50€/h"
+     ]
+    },
+    {
+     "shape": "Group 15/ZoneTexte 20",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.59,
+      3.52,
+      2.57,
+      0.57
+     ],
+     "paragraphs": [
+      "BI Director",
+      "130€/h"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 1",
+     "left": 4.16,
+     "top": 1.91,
+     "width": 1.78,
+     "height": 1.41,
+     "format": "png",
+     "sha1": "d95429dc28c3",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      342,
+      270
+     ]
+    },
+    {
+     "name": "Graphique 9",
+     "left": 0.99,
+     "top": 2.01,
+     "width": 1.78,
+     "height": 1.31,
+     "format": "png",
+     "sha1": "77cbbf6a4837",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      342,
+      252
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Group 17",
+     "enfants": 2,
+     "size": [
+      2.78,
+      2.41
+     ]
+    },
+    {
+     "path": "Group 15",
+     "enfants": 2,
+     "size": [
+      2.57,
+      2.08
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "PRICE France EUR",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "2 éléments parallèles possibles (taille ~3.0x1.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 28,
+   "hidden": false,
+   "layout_source": "Title + 2 Columns with subtitles",
+   "title": "APPROCHE BUDGÉTAIRE PHASE D’ANALYSE",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.92,
+      1.99,
+      5.64,
+      0.51
+     ],
+     "paragraphs": [
+      "LES WORKSHOPS"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 2,
+     "pos": [
+      0.92,
+      2.5,
+      5.64,
+      4.47
+     ],
+     "paragraphs": [
+      "Référentiels contacts et articles",
+      "Gestion commerciale",
+      "Gestion de licences clients",
+      "Maintenance",
+      "Gestion de projets",
+      "Gestion des achats",
+      "Inventaire et stocks",
+      "Service après-vente",
+      "Finance et comptabilité",
+      "Architecture technique et intégrations"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 3,
+     "pos": [
+      6.75,
+      1.99,
+      5.67,
+      0.51
+     ],
+     "paragraphs": [
+      "TEMPS PAR CONSULTANTS"
+     ]
+    },
+    {
+     "shape": "Titre 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE PHASE D’ANALYSE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "28"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 15",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.58,
+      4.62,
+      2.38,
+      2.35
+     ],
+     "paragraphs": [
+      "57h",
+      "7410€"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 17",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      6.75,
+      2.5,
+      5.67,
+      2.12
+     ],
+     "paragraphs": [
+      "Consultant / Développeur Odoo : 0h",
+      "Consultant / Développeur Odoo Certifié : 57h",
+      "Consultant / Développeur Odoo Master : 0h",
+      "Consultant / Développeur Odoo Legend : 0h",
+      "Frais de déplacement : 0€"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 1,
+   "colors": {
+    "FFFF00": 21,
+    "714B67": 2,
+    "BA131A": 2
+   },
+   "fonts": {
+    "+mn-lt": 17,
+    "+mj-lt": 1,
+    "Inter Heavy": 2,
+    "+mn-ea": 9,
+    "+mn-cs": 9
+   },
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [
+    "Inter Heavy"
+   ],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 29,
+   "hidden": false,
+   "layout_source": "Title + 2 Columns with subtitles",
+   "title": "APPROCHE BUDGÉTAIRE IMPLÉMENTATION",
+   "texts": [
+    {
+     "shape": "Espace réservé du texte 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.92,
+      1.99,
+      5.64,
+      0.9
+     ],
+     "paragraphs": [
+      "PLANNING"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 2,
+     "pos": [
+      0.92,
+      3.03,
+      5.64,
+      3.74
+     ],
+     "paragraphs": [
+      "Février : Analyse",
+      "Mars - Mai: Implémentation",
+      "Juin : Validation / Formation",
+      "Juillet : Mise en production"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 3,
+     "pos": [
+      6.75,
+      1.99,
+      5.67,
+      0.9
+     ],
+     "paragraphs": [
+      "BUDGET IMPLÉMENTATION"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      6.75,
+      3.03,
+      5.67,
+      3.74
+     ],
+     "paragraphs": [
+      "250-350h",
+      "8-12K€ par mois sur 7-8 mois"
+     ]
+    },
+    {
+     "shape": "Titre 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.92,
+      0.2,
+      11.5,
+      1.45
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE IMPLÉMENTATION"
+     ]
+    },
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "29"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {
+    "FFFF00": 6
+   },
+   "fonts": {
+    "+mn-lt": 16,
+    "+mj-lt": 1
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 30,
+   "hidden": false,
+   "layout_source": "Captivea VS Odoo",
+   "title": null,
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 10,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "30"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.51,
+      1.53,
+      3.4,
+      1.18
+     ],
+     "paragraphs": [
+      "LE BON",
+      "INTÉGRATEUR"
+     ]
+    },
+    {
+     "shape": "ZoneTexte 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.84,
+      1.53,
+      4.75,
+      1.18
+     ],
+     "paragraphs": [
+      "AVEC LA BONNE SOLUTION"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Graphique 14",
+     "left": 0.48,
+     "top": 3.25,
+     "width": 5.88,
+     "height": 0.98,
+     "format": "png",
+     "sha1": "7d8e88be232f",
+     "illustration_freepik": false,
+     "svg": true,
+     "px": [
+      2500,
+      416
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 11",
+     "enfants": 2,
+     "size": [
+      4.0,
+      1.69
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 2,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)"
+   ]
+  },
+  {
+   "n": 31,
+   "hidden": false,
+   "layout_source": "Circle left + content",
+   "title": "NOS BUREAUX",
+   "texts": [
+    {
+     "shape": "Espace réservé du numéro de diapositive 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 12,
+     "pos": [
+      0.0,
+      7.1,
+      0.53,
+      0.4
+     ],
+     "paragraphs": [
+      "31"
+     ]
+    },
+    {
+     "shape": "Titre 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.24,
+      0.0,
+      5.4,
+      1.22
+     ],
+     "paragraphs": [
+      "NOS BUREAUX"
+     ]
+    },
+    {
+     "shape": "Sous-titre 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.24,
+      1.34,
+      5.4,
+      5.28
+     ],
+     "paragraphs": [
+      "AMÉRIQUE DU NORD",
+      "USA – Florida, Orlando",
+      "Canada – Montréal, Québec",
+      "EUROPE",
+      "France – Savoie, Le Bourget du Lac",
+      "France – Nord, Fenain",
+      "Luxembourg – Esch-sur-Alzette, Belvaux",
+      "ASIE",
+      "Singapour – Singapour",
+      "Inde – Gujarat, Vadodara",
+      "AFRIQUE",
+      "Madagascar - Antananarivo"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Espace réservé du contenu 4",
+     "left": 5.93,
+     "top": 0.1,
+     "width": 7.3,
+     "height": 7.3,
+     "format": "png",
+     "sha1": "62af64ba9cb7",
+     "illustration_freepik": false,
+     "px": [
+      1080,
+      1080
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {
+    "F5F4F4": 25
+   },
+   "fonts": {
+    "+mj-lt": 32,
+    "Inter Ultra-Bold": 2,
+    "Trebuchet MS Bold": 8,
+    "Trebuchet MS": 40
+   },
+   "old_violets": [],
+   "old_fonts": [
+    "Inter Ultra-Bold",
+    "Trebuchet MS",
+    "Trebuchet MS Bold"
+   ],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  }
+ ]
+}
