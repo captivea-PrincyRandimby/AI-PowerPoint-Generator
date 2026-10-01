@@ -1,0 +1,4135 @@
+{
+ "document": "C:\\Users\\Captivea-Princy-AI\\Downloads\\PPT Transformation\\PPT Transformation\\05. Render corrected\\Sales knowledge\\09. AI Agents Offer\\FR - Sales - AI Agents Offer.pptx",
+ "slides": [
+  {
+   "n": 1,
+   "hidden": false,
+   "layout_source": "Main Title",
+   "title": "Présentation IA",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.87,
+      11.81,
+      1.97
+     ],
+     "paragraphs": [
+      "Présentation IA"
+     ]
+    },
+    {
+     "shape": "Subtitle 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      4.04,
+      11.81,
+      2.64
+     ],
+     "paragraphs": [
+      "Votre intégrateur Odoo"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Merci de nous recevoir. On se connaît déjà : vous avez vu nos agents en démonstration, et on a creusé vos enjeux ensemble. Aujourd'hui, on va droit au but. Je vais vous montrer ce qu'on vous propose concrètement, comment on le met en place, et combien ça coûte. L'objectif, c'est qu'à la fin vous ayez tout en main pour décider.",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 2,
+   "hidden": false,
+   "layout_source": "Summary",
+   "title": "SOMMAIRE",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "SOMMAIRE"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.76,
+      2.84,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "01"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      1.54,
+      2.84,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Captivea et Odoo"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      7.07,
+      2.84,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "06"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      7.85,
+      2.84,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Approche budgétaire"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      0.76,
+      3.63,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "02"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      1.54,
+      3.63,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Démonstration"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      0.76,
+      4.42,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "03"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      1.54,
+      4.42,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Notre vision d’un projet réussi"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 26,
+     "pos": [
+      0.76,
+      5.2,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "04"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 27,
+     "pos": [
+      1.53,
+      5.2,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Phase d’analyse"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 30,
+     "pos": [
+      0.76,
+      5.99,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "05"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 19",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 31,
+     "pos": [
+      1.53,
+      5.99,
+      4.73,
+      0.68
+     ],
+     "paragraphs": [
+      "Approche budgétaire"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 22",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "SOMMAIRE"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 3,
+   "hidden": false,
+   "layout_source": "Section Title",
+   "title": "CAPTIVEA ET ODOO",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      2.95,
+      2.13,
+      9.62,
+      1.97
+     ],
+     "paragraphs": [
+      "CAPTIVEA ET ODOO"
+     ]
+    },
+    {
+     "shape": "Content Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.76,
+      2.13,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "01"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "NOUS DECOUVRIR"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "C’est parti pour la démonstration. {Consultant} va prendre la main et faire la démonstration. {Consultant}, tu as jusqu’à ..h..\n\nMerci {Consultant} pour la démonstration. Qu’est-ce que vous en pensez? Etes-vous convaincus?",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 4,
+   "hidden": false,
+   "layout_source": "Circles - 4 columns",
+   "title": "UN ÉCOSYSTÈME COMPLET",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "UN ÉCOSYSTÈME COMPLET"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "ODOO"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      1.15,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "ERP"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 25,
+     "pos": [
+      0.76,
+      4.92,
+      2.76,
+      1.86
+     ],
+     "paragraphs": [
+      "Gérez l’ensemble de vos opérations."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 26,
+     "pos": [
+      10.21,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "AI"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 28,
+     "pos": [
+      9.82,
+      4.92,
+      2.76,
+      1.86
+     ],
+     "paragraphs": [
+      "Automatisations intelligentes."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 29,
+     "pos": [
+      4.18,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "WEB"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 31,
+     "pos": [
+      3.78,
+      4.92,
+      2.76,
+      1.86
+     ],
+     "paragraphs": [
+      "Site web, e-commerce et blog intégrés."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 32,
+     "pos": [
+      7.19,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "BI"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 34,
+     "pos": [
+      6.8,
+      4.92,
+      2.76,
+      1.86
+     ],
+     "paragraphs": [
+      "Tableaux de bord et analyses en temps réel."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Captivea dispose de multiples expertises pour soutenir vos besoins. \n\nNos services incluent l'intégration ERP pour rationaliser vos opérations. \n\nDe plus, notre département d'agence web est dédié à la construction et à l'amélioration de votre présence en ligne et de vos stratégies de communication. \n\nNous sommes également spécialisés dans l'utilisation de l'IA pour améliorer vos processus, et notre département Business Intelligence est équipé pour fournir des analyses de données perspicaces afin de faire avancer votre entreprise.",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 5,
+   "hidden": false,
+   "layout_source": "Circles - 3 columns",
+   "title": "CAPTIVEA EN QUELQUES CHIFFRES",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "CAPTIVEA EN QUELQUES CHIFFRES"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      5.68,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "+200"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      4.99,
+      4.87,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Employés heureux"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "CAPTIVEA"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      1.45,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "+800"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 24,
+     "pos": [
+      0.76,
+      4.87,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Clients satisfaits"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 26,
+     "pos": [
+      9.91,
+      2.81,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "+18 ans"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 27,
+     "pos": [
+      9.23,
+      4.87,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "D’intégration ERP"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 6,
+   "hidden": false,
+   "layout_source": "Standard - Title only - Wide",
+   "title": "NOS RÉFÉRENCES",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      4.95,
+      0.59,
+      7.62,
+      0.93
+     ],
+     "paragraphs": [
+      "NOS RÉFÉRENCES"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "RÉFÉRENCES"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Picture 3",
+     "left": 2.8,
+     "top": 1.45,
+     "width": 7.73,
+     "height": 5.44,
+     "format": "png",
+     "sha1": "c28e4cf8bf2f",
+     "illustration_freepik": false,
+     "px": [
+      1703,
+      1198
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 7,
+   "hidden": false,
+   "layout_source": "Section Title",
+   "title": "DECOUVRIR L’IA",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      2.95,
+      2.13,
+      9.62,
+      1.97
+     ],
+     "paragraphs": [
+      "DECOUVRIR L’IA"
+     ]
+    },
+    {
+     "shape": "Content Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.76,
+      2.13,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "02"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "C’est parti pour la démonstration. {Consultant} va prendre la main et faire la démonstration. {Consultant}, tu as jusqu’à ..h..\n\nMerci {Consultant} pour la démonstration. Qu’est-ce que vous en pensez? Etes-vous convaincus?",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 8,
+   "hidden": false,
+   "layout_source": "Standard - Title only - Wide",
+   "title": "Avantages de l’IA",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      4.95,
+      0.59,
+      7.62,
+      0.93
+     ],
+     "paragraphs": [
+      "Avantages de l’IA"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    },
+    {
+     "shape": "Groupe 31/TextBox 18",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      2.78,
+      3.5,
+      0.34
+     ],
+     "paragraphs": [
+      "Impact Massif"
+     ]
+    },
+    {
+     "shape": "Groupe 31/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      3.16,
+      3.5,
+      0.94
+     ],
+     "paragraphs": [
+      "Leroy Merlin a déployé l'IA pour assister ses 28 000 collaborateurs, divisant par 10 le temps de recherche d'information technique pour mieux servir le client."
+     ]
+    },
+    {
+     "shape": "TextBox 21",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.45,
+      6.09,
+      10.74,
+      0.61
+     ],
+     "paragraphs": [
+      "NOTRE MISSION",
+      "Décharger vos équipes de la charge mentale pour qu'elles se concentrent sur la valeur ajoutée."
+     ]
+    },
+    {
+     "shape": "Groupe 41/TextBox 18",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      2.78,
+      3.5,
+      0.34
+     ],
+     "paragraphs": [
+      "Préférence Client"
+     ]
+    },
+    {
+     "shape": "Groupe 41/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      3.16,
+      3.5,
+      0.71
+     ],
+     "paragraphs": [
+      "51% des consommateurs préfèrent une réponse immédiate d'un agent IA plutôt que d'attendre un humain."
+     ]
+    },
+    {
+     "shape": "Groupe 54/TextBox 18",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      2.78,
+      3.5,
+      0.34
+     ],
+     "paragraphs": [
+      "Adoption Fulgurante"
+     ]
+    },
+    {
+     "shape": "Groupe 54/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      0.47,
+      3.16,
+      3.5,
+      0.47
+     ],
+     "paragraphs": [
+      "85% des entreprises intègrent des agents IA pour leur support client cette année."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Groupe 2",
+     "enfants": 7,
+     "size": [
+      3.83,
+      3.98
+     ]
+    },
+    {
+     "path": "Groupe 31",
+     "enfants": 2,
+     "size": [
+      3.5,
+      1.32
+     ]
+    },
+    {
+     "path": "Groupe 41",
+     "enfants": 2,
+     "size": [
+      3.5,
+      1.09
+     ]
+    },
+    {
+     "path": "Groupe 54",
+     "enfants": 2,
+     "size": [
+      3.5,
+      0.85
+     ]
+    }
+   ],
+   "connectors": 3,
+   "autoshapes_with_text": 0,
+   "textboxes": 7,
+   "colors": {
+    "974347": 2,
+    "FFFFFF": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 3,
+   "notes": "Venons-en au cœur du sujet. L'IA n'est plus un gadget. 85% des entreprises intègrent déjà des agents pour leur support client, et plus d'un consommateur sur deux préfère une réponse immédiate plutôt que d'attendre un humain. Des groupes comme Leroy Merlin ont divisé par dix le temps de recherche d'information pour leurs équipes. Notre mission tient en une phrase : vous décharger de la charge mentale, pour que vos équipes se concentrent sur ce qui a vraiment de la valeur.",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "4 éléments parallèles possibles (taille ~4.0x0.0 in) -> masque à 4 ?"
+   ]
+  },
+  {
+   "n": 9,
+   "hidden": false,
+   "layout_source": "Standard - Title only - Wide",
+   "title": "Quel moteur IA pour mon entreprise ?",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      4.95,
+      0.59,
+      7.62,
+      0.93
+     ],
+     "paragraphs": [
+      "Quel moteur IA pour mon entreprise ?"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      1.43,
+      3.15,
+      3.44,
+      1.2
+     ],
+     "paragraphs": [
+      "Souveraineté des données",
+      "Efficacité des coûts",
+      "Idéal pour les processus métiers critiques et l’analyse documentaire confidentielle"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      1.43,
+      5.8,
+      3.44,
+      0.96
+     ],
+     "paragraphs": [
+      "Nuance linguistique",
+      "Analyse de code",
+      "Idéal pour la rédaction marketing et la synthèse de documents"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.38,
+      5.8,
+      3.44,
+      0.96
+     ],
+     "paragraphs": [
+      "Google Workspace",
+      "Multimodales",
+      "Idéal pour les users Google et les tâches diverses (image, vidéo)"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 19",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.38,
+      3.3,
+      3.44,
+      0.96
+     ],
+     "paragraphs": [
+      "Polyvalence",
+      "Créativité",
+      "Idéal pour brainstormer et réalisé des tâches diverses"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [
+    {
+     "name": "Picture 2",
+     "left": 1.43,
+     "top": 2.4,
+     "width": 1.96,
+     "height": 0.75,
+     "format": "png",
+     "sha1": "372c89463e54",
+     "illustration_freepik": false,
+     "px": [
+      1024,
+      392
+     ]
+    },
+    {
+     "name": "Picture 4",
+     "left": 1.54,
+     "top": 5.31,
+     "width": 1.96,
+     "height": 0.42,
+     "format": "png",
+     "sha1": "9ba81bd95ccb",
+     "illustration_freepik": false,
+     "px": [
+      1024,
+      220
+     ]
+    },
+    {
+     "name": "Picture 6",
+     "left": 8.38,
+     "top": 5.0,
+     "width": 1.96,
+     "height": 0.73,
+     "format": "png",
+     "sha1": "4b9903cfba1d",
+     "illustration_freepik": false,
+     "px": [
+      1280,
+      473
+     ]
+    },
+    {
+     "name": "Picture 8",
+     "left": 8.38,
+     "top": 2.63,
+     "width": 2.02,
+     "height": 0.59,
+     "format": "png",
+     "sha1": "d7a2b4cef5f0",
+     "illustration_freepik": false,
+     "px": [
+      1875,
+      547
+     ]
+    }
+   ],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "TransplantBody",
+     "enfants": 9,
+     "size": [
+      10.23,
+      4.8
+     ]
+    },
+    {
+     "path": "TransplantBody/Groupe 37",
+     "enfants": 4,
+     "size": [
+      2.72,
+      4.86
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 4,
+   "colors": {
+    "000000": 23,
+    "FFFFFF": 4
+   },
+   "fonts": {
+    "+mn-ea": 19,
+    "+mn-cs": 19
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "La première question qu'on nous pose, c'est : quel moteur d'IA choisir ? Notre réponse, c'est que le choix vous revient. Mistral, si la souveraineté des données et la sécurité priment, ce qui rassure vos équipes informatique. Claude, pour la rédaction et l'analyse de documents. Gemini, si vous vivez dans l'univers Google. ChatGPT, pour la polyvalence. On s'adapte à votre contexte, on ne vous enferme pas dans une seule technologie.",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "4 éléments parallèles possibles (taille ~3.0x1.0 in) -> masque à 4 ?"
+   ]
+  },
+  {
+   "n": 10,
+   "hidden": false,
+   "layout_source": "Standard - Title only - Wide",
+   "title": "Intégration IA : Le choc des réalités",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      4.95,
+      0.59,
+      7.62,
+      0.93
+     ],
+     "paragraphs": [
+      "Intégration IA : Le choc des réalités"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    },
+    {
+     "shape": "TextBox 20",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      2.1,
+      2.09,
+      2.51,
+      0.34
+     ],
+     "paragraphs": [
+      "Facteur humain"
+     ]
+    },
+    {
+     "shape": "TextBox 21",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.72,
+      2.82,
+      2.03,
+      0.34
+     ],
+     "paragraphs": [
+      "Maintenance"
+     ]
+    },
+    {
+     "shape": "TextBox 22",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.67,
+      2.38,
+      3.94,
+      0.61
+     ],
+     "paragraphs": [
+      "Résistance au changement et besoin de formation"
+     ]
+    },
+    {
+     "shape": "TextBox 23",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.72,
+      3.11,
+      3.81,
+      0.61
+     ],
+     "paragraphs": [
+      "Les modèles changent, les connecteurs se cassent"
+     ]
+    },
+    {
+     "shape": "TextBox 24",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.86,
+      3.31,
+      2.74,
+      0.34
+     ],
+     "paragraphs": [
+      "Sécurité et RGPD"
+     ]
+    },
+    {
+     "shape": "TextBox 25",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.72,
+      4.0,
+      3.81,
+      0.34
+     ],
+     "paragraphs": [
+      "Ingénierie des prompts"
+     ]
+    },
+    {
+     "shape": "TextBox 26",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.76,
+      3.61,
+      3.84,
+      0.3
+     ],
+     "paragraphs": [
+      "Risques de fuite de données"
+     ]
+    },
+    {
+     "shape": "TextBox 27",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      8.72,
+      4.3,
+      3.85,
+      0.91
+     ],
+     "paragraphs": [
+      "Contextes complexes nécessaires pour éviter les hallucinations"
+     ]
+    },
+    {
+     "shape": "TextBox 28",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      1.96,
+      4.62,
+      2.65,
+      0.34
+     ],
+     "paragraphs": [
+      "Silos de données"
+     ]
+    },
+    {
+     "shape": "TextBox 29",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      0.78,
+      4.92,
+      3.83,
+      0.3
+     ],
+     "paragraphs": [
+      "L'IA nécessite des données propres"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "Group 4",
+     "enfants": 3,
+     "size": [
+      2.77,
+      2.68
+     ]
+    },
+    {
+     "path": "Group 8",
+     "enfants": 3,
+     "size": [
+      2.77,
+      2.68
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 10,
+   "colors": {
+    "484848": 41,
+    "BA131A": 4,
+    "CD5358": 4,
+    "D9D9D9": 2,
+    "BCBCBC": 2,
+    "974347": 2,
+    "714B67": 2,
+    "E7A9AC": 1,
+    "D06E73": 1,
+    "AEC3CB": 1,
+    "5B7C8A": 1,
+    "CDB9C6": 1
+   },
+   "fonts": {},
+   "old_violets": [
+    "714B67"
+   ],
+   "old_fonts": [],
+   "gradients": 7,
+   "notes": "Soyons honnêtes deux minutes. Mettre de l'IA dans une entreprise, ce n'est pas magique. Il y a le facteur humain, la sécurité et le RGPD, le risque de fuite de données, les silos, et la maintenance dans le temps. C'est exactement là qu'on intervient. On ne vous vend pas un outil que vous devrez dompter tout seul : on cadre, on sécurise, et on accompagne.",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "3 éléments parallèles possibles (taille ~3.0x0.0 in) -> masque à 3 ?"
+   ]
+  },
+  {
+   "n": 11,
+   "hidden": false,
+   "layout_source": "Standard - Title only - Wide",
+   "title": "L’IA propulse la croissance de Captivea",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      4.95,
+      0.59,
+      7.62,
+      0.93
+     ],
+     "paragraphs": [
+      "L’IA propulse la croissance de Captivea"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 10",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      2.52,
+      2.95,
+      1.87,
+      0.67
+     ],
+     "paragraphs": [
+      "Excellence Opérationnelle"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 11",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.94,
+      2.95,
+      1.89,
+      0.67
+     ],
+     "paragraphs": [
+      "Transformation Sales"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 12",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      6.08,
+      3.66,
+      1.16,
+      0.34
+     ],
+     "paragraphs": [
+      "Agents IA"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 13",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      2.22,
+      3.74,
+      2.49,
+      0.61
+     ],
+     "paragraphs": [
+      "Préparation des démos assistée par IA"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 14",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      8.59,
+      3.75,
+      2.72,
+      0.61
+     ],
+     "paragraphs": [
+      "Scraping intelligent, copywriting automatisé"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 15",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      2.95,
+      5.5,
+      2.12,
+      0.34
+     ],
+     "paragraphs": [
+      "Croissance Lente"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 16",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      7.74,
+      5.5,
+      2.72,
+      0.34
+     ],
+     "paragraphs": [
+      "Croissance Rapide"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 17",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      2.66,
+      6.03,
+      2.85,
+      0.61
+     ],
+     "paragraphs": [
+      "Prospection manuelle,",
+      "taux de no-show élevé"
+     ]
+    },
+    {
+     "shape": "TransplantBody/TextBox 18",
+     "kind": "textbox",
+     "depth": 1,
+     "ph_idx": null,
+     "pos": [
+      7.76,
+      6.03,
+      2.85,
+      0.61
+     ],
+     "paragraphs": [
+      "Leads qualifiés,",
+      "relation client améliorée"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [
+    {
+     "path": "TransplantBody",
+     "enfants": 21,
+     "size": [
+      10.87,
+      4.6
+     ]
+    }
+   ],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 9,
+   "colors": {
+    "000000": 45,
+    "484848": 8,
+    "BA131A": 3,
+    "AEC3CB": 2,
+    "5B7C8A": 2,
+    "E29C9F": 2,
+    "CD5358": 2,
+    "223843": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 4,
+   "notes": "Et concrètement, qu'est-ce que ça change ? D'un côté, la prospection à la main, les relances qui traînent, les rendez-vous manqués. De l'autre, des équipes équipées d'agents : la préparation est assistée, les leads sont mieux qualifiés, la relation client s'améliore. C'est le passage d'une croissance lente à une croissance rapide. Et ça, on l'applique d'abord chez nous, avant de vous le proposer.",
+   "comments": [],
+   "hints": [
+    "Diagramme fait main probable -> 5a/5b (ne pas aplatir)",
+    "3 éléments parallèles possibles (taille ~2.0x1.0 in) -> masque à 3 ?"
+   ]
+  },
+  {
+   "n": 12,
+   "hidden": false,
+   "layout_source": "Boxed - 3 columns with subtitle",
+   "title": "Le triple A de l'Humain Augmenté",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Le triple A de l'Humain Augmenté"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 19",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.96,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Adoption"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 20",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On installe l'environnement et on forme vos équipes. L'IA entre dans les usages, sans accroc."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      9.03,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 22",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      9.03,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Accélération"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      9.03,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On entretient, on mesure le ROI et on fait monter vos agents en puissance."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      4.99,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 25",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      4.99,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Automatisation"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 26",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      4.99,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On déploie les agents qui retirent les tâches répétitives, là où ça pèse le plus."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 27",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.76,
+      2.51,
+      11.81,
+      0.91
+     ],
+     "paragraphs": [
+      "On part toujours d'un besoin concret. On allège la charge, on ne remplace personne."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Notre approche tient en trois temps, ce qu'on appelle le triple A. On ne part jamais de la technologie, mais toujours d'un besoin concret. D'abord l'Adoption : on installe l'environnement et on forme vos équipes, l'IA entre dans les usages. Ensuite l'Automatisation : on déploie les agents qui retirent les tâches répétitives. Enfin l'Accélération : on entretient, on mesure le ROI, et on fait monter vos agents en puissance. Et à aucun moment on ne remplace quelqu'un : on allège la charge.",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 13,
+   "hidden": false,
+   "layout_source": "Section Title",
+   "title": "6 AGENTS IA ENTRAINE",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      2.95,
+      2.13,
+      9.62,
+      1.97
+     ],
+     "paragraphs": [
+      "6 AGENTS IA ENTRAINE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      4.36,
+      11.81,
+      1.64
+     ],
+     "paragraphs": [
+      "Chacun prend une charge précise. Vous gardez la main."
+     ]
+    },
+    {
+     "shape": "Content Placeholder 3",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.76,
+      2.13,
+      1.97,
+      1.97
+     ],
+     "paragraphs": [
+      "03"
+     ]
+    },
+    {
+     "shape": "Text Placeholder 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "IA"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "C’est parti pour la démonstration. {Consultant} va prendre la main et faire la démonstration. {Consultant}, tu as jusqu’à ..h..\n\nMerci {Consultant} pour la démonstration. Qu’est-ce que vous en pensez? Etes-vous convaincus?",
+   "comments": [],
+   "hints": [
+    "SECTION probable"
+   ]
+  },
+  {
+   "n": 14,
+   "hidden": false,
+   "layout_source": "Boxed - 3 columns X2",
+   "title": "Six collègues virtuels, un par métier",
+   "texts": [
+    {
+     "shape": "Title 1",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Six collègues virtuels, un par métier"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 31",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      2.84,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 32",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      1.49,
+      2.78,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Léo",
+      "Marketing"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 33",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      3.48,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Rédige vos campagnes et vos publications."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 2",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 34",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      9.03,
+      2.84,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 35",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      9.56,
+      2.78,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Luna",
+      "Vente en ligne"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 36",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      9.03,
+      3.48,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Conseille et vend sur votre site, jour et nuit."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 37",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      4.99,
+      2.84,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 38",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      5.52,
+      2.78,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Jade",
+      "Vente"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 39",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      4.99,
+      3.48,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Entraîne vos commerciaux, prépare vos rendez-vous."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 40",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.96,
+      5.0,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "4"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 41",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 24,
+     "pos": [
+      1.49,
+      4.94,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Arthur",
+      "Gestion de projet"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 42",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 25,
+     "pos": [
+      0.96,
+      5.64,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Sécurise et fait avancer vos projets."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 43",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 26,
+     "pos": [
+      9.03,
+      5.0,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "6"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 44",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 27,
+     "pos": [
+      9.56,
+      4.94,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Captivea Connect",
+      "Inclus de base"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 45",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 28,
+     "pos": [
+      9.03,
+      5.64,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Votre lien direct avec l'équipe Captivea."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 46",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 29,
+     "pos": [
+      4.99,
+      5.0,
+      0.53,
+      0.52
+     ],
+     "paragraphs": [
+      "5"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 47",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 30,
+     "pos": [
+      5.52,
+      4.94,
+      2.82,
+      0.68
+     ],
+     "paragraphs": [
+      "Lou",
+      "Juridique"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 48",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 31,
+     "pos": [
+      4.99,
+      5.64,
+      3.35,
+      1.08
+     ],
+     "paragraphs": [
+      "Vérifie vos contrats, surveille les échéances."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {
+    "212529": 2
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "Pour ça, on a six collègues virtuels, un par métier. Léo pour le marketing, Jade pour la vente, Luna pour la vente en ligne, Arthur pour la gestion de projet, Lou pour le juridique, et Captivea Connect qui reste votre lien direct avec nous. Tous sont directement dans votre Odoo, à partir de la version 19, et tous sont personnalisés pour vous. On va les passer en revue. Retenez une chose : chacun prend une charge précise, et vous gardez la main.",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 15,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Léo, votre marketeur préféré",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Léo, votre marketeur préféré"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Produire du contenu de prospection et LinkedIn en continu, sans y laisser vos soirées.",
+      "Rédige vos emails de prospection ciblés par secteur, poste et offre, prêts à partir.",
+      "Génère vos publications LinkedIn avec le visuel, à votre ton et votre marché.",
+      "Planifie et publie, ou vous laisse valider avant l'envoi."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "L"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "Du contenu prêt en quelques minutes."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "Vos équipes marketing et vos commerciaux se concentrent sur l'essentiel, pas sur la rédaction."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 19,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 16,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Jade, votre commerciale augmentée",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Jade, votre commerciale augmentée"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Des commerciaux pas assez entraînés, et des rendez-vous préparés à la va-vite.",
+      "Entraîne vos commerciaux en simulation d'appel : Jade joue le client, sans risque.",
+      "Coache en direct pendant l'appel : objections, qualification, débrief immédiat.",
+      "Prépare chaque rendez-vous à partir de la fiche, du stade du contact et des échanges."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "J"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "Des commerciaux prêts à chaque appel."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "L'entraînement et la préparation, en continu."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 3,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 17,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Luna, votre conseiller 24h/24, 7j/7",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Luna, votre conseiller 24h/24, 7j/7"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Des visiteurs qui quittent votre site faute de réponse immédiate.",
+      "Trouve, détaille et compare vos produits pour guider l'acheteur.",
+      "Retrouve une commande après vérification de l'adresse e-mail du client.",
+      "Crée une demande d'assistance quand elle n'a pas la réponse."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "L"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "Toujours disponible pour vos clients."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "Sur votre site, jour et nuit, sans jamais faire attendre."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 3,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 18,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Arthur, votre chef de projet augmenté",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Arthur, votre chef de projet augmenté"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Des projets qui dérapent : étapes oubliées, écarts repérés trop tard.",
+      "Répond à vos équipes sur vos méthodes et vos procédures, en citant ses sources.",
+      "Audite un projet en un clic : conformité, note, écarts et recommandations.",
+      "Vérifie chaque étape : ce qui est attendu face à ce qui est livré, avec les risques."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "A"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "Vos projets sous contrôle."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "Quel que soit le projet, plus rien ne passe à la trappe."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 3,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 19,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Lou, votre vigie juridique",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Lou, votre vigie juridique"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Des contrats qui s'empilent, des échéances et des points de conformité qui passent à travers.",
+      "Analyse vos documents : conforme, non conforme ou à vérifier.",
+      "Propose les corrections et ouvre la tâche au bon responsable.",
+      "Alerte sur les dates d'expiration et prépare les signatures."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "L"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "Vos contrats sous contrôle, RGPD inclus."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "Plus rien ne passe entre les mailles."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 3,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 20,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns",
+   "title": "Captivea Connect, on reste à votre écoute",
+   "texts": [
+    {
+     "shape": "Titre 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Captivea Connect, on reste à votre écoute"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 1,
+     "pos": [
+      0.76,
+      2.59,
+      5.67,
+      4.17
+     ],
+     "paragraphs": [
+      "Inclus de base avec vos agents : votre lien direct avec nos équipes.",
+      "Votre ligne directe avec nos équipes techniques.",
+      "L'IA évolue et vos besoins aussi : on ajuste vos agents en continu.",
+      "Inclus de base, pour vous accompagner dans la durée."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 AGENTS IA"
+     ]
+    },
+    {
+     "shape": "TextBox 8",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      9.14,
+      3.55,
+      1.2,
+      0.5
+     ],
+     "paragraphs": [
+      "C"
+     ]
+    },
+    {
+     "shape": "TextBox 9",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      4.64,
+      5.25,
+      0.31
+     ],
+     "paragraphs": [
+      "On reste à vos côtés."
+     ]
+    },
+    {
+     "shape": "TextBox 10",
+     "kind": "textbox",
+     "depth": 0,
+     "ph_idx": null,
+     "pos": [
+      7.11,
+      5.18,
+      5.25,
+      0.5
+     ],
+     "paragraphs": [
+      "Vos agents progressent avec vous, en continu."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 3,
+   "colors": {
+    "FFFFFF": 3,
+    "CD5358": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "2 éléments parallèles possibles (taille ~5.0x0.0 in) -> masque à 2 ?"
+   ]
+  },
+  {
+   "n": 21,
+   "hidden": false,
+   "layout_source": "Boxed - 3 columns with subtitle",
+   "title": "Quand le catalogue ne suffit pas : le sur-mesure",
+   "texts": [
+    {
+     "shape": "Titre 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Quand le catalogue ne suffit pas : le sur-mesure"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.96,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Cadrage payant"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "Une phase d'analyse obligatoire. C'est du conseil : on mesure le besoin et la faisabilité."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      9.03,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      9.03,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Déploiement"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      9.03,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On construit et on met en service, strictement dans le cadre défini ensemble."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      4.99,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      4.99,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Faisabilité validée"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      4.99,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On verrouille le périmètre et le ROI attendu avant de lancer le développement."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "6 ANGENTS IA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.76,
+      2.51,
+      11.81,
+      0.91
+     ],
+     "paragraphs": [
+      "Un besoin hors catalogue, ou pas encore sous Odoo ? On construit. Mais on cadre d'abord.",
+      "Exemples de projets filtrage et gestion de boîtes mail · automatisations complexes avec n8n · qualification automatique de prospects · rapports automatisés · agent vocal · connexion de vos logiciels"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {
+    "212529": 1
+   },
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 22,
+   "hidden": false,
+   "layout_source": "Boxed - 2 columns with subtitle",
+   "title": "La formation IA Captivea Academy",
+   "texts": [
+    {
+     "shape": "Titre 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "La formation IA Captivea Academy"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      1.83,
+      3.67,
+      4.44,
+      0.68
+     ],
+     "paragraphs": [
+      "Formation Adoption",
+      "L'Humain Augmenté · 1 jour (7 heures)"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      4.64,
+      5.34,
+      2.0
+     ],
+     "paragraphs": [
+      "Pour : Dirigeants, managers et équipes opérationnelles.",
+      "Comprendre l'IA, la sécurité et le RGPD",
+      "Rédiger des consignes qui donnent de bons résultats",
+      "Des cas d'usage par métier et votre premier agent"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "FORMATION IA"
+     ]
+    },
+    {
+     "shape": "Espace réservé du contenu 17",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.76,
+      2.51,
+      11.81,
+      0.91
+     ],
+     "paragraphs": [
+      "Sessions de 6 personnes maximum, en présentiel ou à distance. Attestation en fin de formation."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 24,
+     "pos": [
+      7.06,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 22",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 25,
+     "pos": [
+      8.05,
+      3.67,
+      4.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Formation Automatisation",
+      "n8n, architecte de vos processus · 1 jour (7 heures)"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 26,
+     "pos": [
+      7.06,
+      4.64,
+      5.34,
+      2.0
+     ],
+     "paragraphs": [
+      "Pour : Chefs de projet, opérationnels, informatique et utilisateurs avancés.",
+      "Construire des automatisations fiables (conditions, boucles, erreurs)",
+      "Relier vos outils entre eux (interfaces, déclencheurs)",
+      "Intégrer un moteur IA dans un processus"
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 23,
+   "hidden": false,
+   "layout_source": "Boxed - 3 columns with subtitle",
+   "title": "On reste à vos côtés",
+   "texts": [
+    {
+     "shape": "Titre 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "On reste à vos côtés"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.96,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Maintenance"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 21",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "Mises à jour des consignes, adaptation aux nouveaux modèles, corrections.",
+      "3 heures de consultant incluses chaque mois."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      9.03,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      9.03,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Vous décidez"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 22",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      9.03,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "On arrête un agent dès que vous le souhaitez. Sans justification."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      4.99,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 19",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      4.99,
+      4.43,
+      3.35,
+      0.68
+     ],
+     "paragraphs": [
+      "Sans engagement"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 23",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      4.99,
+      5.15,
+      3.35,
+      1.49
+     ],
+     "paragraphs": [
+      "Aucune durée imposée. Vous restez libre, mois après mois."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "SUPPORT & ASSISTANCE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 24",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.76,
+      2.51,
+      11.81,
+      0.91
+     ],
+     "paragraphs": [
+      "On vend une solution adoptée, maintenue et ROI-positive. Pas juste du code livré."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  },
+  {
+   "n": 24,
+   "hidden": false,
+   "layout_source": "Boxed - 2 columns with subtitle",
+   "title": "Tarification claire, sans engagement de durée",
+   "texts": [
+    {
+     "shape": "Titre 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Tarification claire, sans engagement de durée"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.96,
+      4.35,
+      5.34,
+      0.68
+     ],
+     "paragraphs": [
+      "Setup et maintenance"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGETAIRE"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 19",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      0.76,
+      2.51,
+      11.81,
+      0.91
+     ],
+     "paragraphs": [
+      "Offre sans engagement de durée, licence du moteur IA à votre charge."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 30",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 24,
+     "pos": [
+      7.06,
+      3.67,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 31",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 25,
+     "pos": [
+      7.06,
+      4.35,
+      5.34,
+      0.68
+     ],
+     "paragraphs": [
+      "À la demande et formation"
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "path": "Tableau 25",
+     "rows": 3,
+     "cols": 2,
+     "cells": [
+      [
+       "Setup environnement",
+       "400 € · une seule fois"
+      ],
+      [
+       "Installation par agent",
+       "800 € · une seule fois"
+      ],
+      [
+       "Maintenance",
+       "300 € / mois et environnement 3 h de consultant incluses"
+      ]
+     ]
+    },
+    {
+     "path": "Tableau 27",
+     "rows": 3,
+     "cols": 2,
+     "cells": [
+      [
+       "Consultant IA",
+       "100 € / heure"
+      ],
+      [
+       "Carnet de temps (évolutions hors périmètre)",
+       "100 € / heure"
+      ],
+      [
+       "Formation (6 personnes maximum)",
+       "1500 € / jour"
+      ]
+     ]
+    }
+   ],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Tableau -> 5d (identique)"
+   ]
+  },
+  {
+   "n": 25,
+   "hidden": false,
+   "layout_source": "Standard - 2 columns with subititle",
+   "title": "Un budget type, concret Exemple : 1 environnement, 2 agents, 1 session de formation.",
+   "texts": [
+    {
+     "shape": "Content Placeholder 4",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 4,
+     "pos": [
+      6.9,
+      2.77,
+      5.67,
+      3.91
+     ],
+     "paragraphs": [
+      "3 500 € HT",
+      "à la mise en place",
+      "puis 300 € HT / mois",
+      "maintenance, 3 heures de consultant incluses"
+     ]
+    },
+    {
+     "shape": "Title 5",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "Un budget type, concret Exemple : 1 environnement, 2 agents, 1 session de formation."
+     ]
+    },
+    {
+     "shape": "Text Placeholder 6",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "APPROCHE BUDGÉTAIRE"
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "path": "Tableau 9",
+     "rows": 3,
+     "cols": 2,
+     "cells": [
+      [
+       "Setup environnement",
+       "400 €"
+      ],
+      [
+       "2 agents",
+       "2 X 800 € 1 600 €"
+      ],
+      [
+       "Formation (1 session)",
+       "1 500€"
+      ]
+     ]
+    }
+   ],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {
+    "FFFFFF": 1,
+    "EDE3E3": 1,
+    "223843": 1,
+    "BA131A": 1,
+    "E2575D": 1
+   },
+   "fonts": {
+    "+mj-lt": 6
+   },
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 1,
+   "notes": "",
+   "comments": [],
+   "hints": [
+    "Tableau -> 5d (identique)"
+   ]
+  },
+  {
+   "n": 26,
+   "hidden": false,
+   "layout_source": "Boxed - 4 columns",
+   "title": "On démarre en 2 à 3 semaines",
+   "texts": [
+    {
+     "shape": "Titre 7",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 0,
+     "pos": [
+      0.76,
+      1.48,
+      11.81,
+      0.93
+     ],
+     "paragraphs": [
+      "On démarre en 2 à 3 semaines"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 9",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 14,
+     "pos": [
+      0.96,
+      2.81,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "1"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 10",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 15,
+     "pos": [
+      0.96,
+      3.68,
+      2.38,
+      0.68
+     ],
+     "paragraphs": [
+      "Choix des agents"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 11",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 16,
+     "pos": [
+      0.96,
+      4.5,
+      2.38,
+      1.81
+     ],
+     "paragraphs": [
+      "On sélectionne le ou les agents prioritaires."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 8",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 13,
+     "pos": [
+      0.76,
+      0.82,
+      3.74,
+      0.47
+     ],
+     "paragraphs": [
+      "PLANNING"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 12",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 17,
+     "pos": [
+      10.01,
+      2.81,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "4"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 13",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 18,
+     "pos": [
+      10.01,
+      3.68,
+      2.38,
+      0.68
+     ],
+     "paragraphs": [
+      "Formation"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 14",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 19,
+     "pos": [
+      10.01,
+      4.5,
+      2.38,
+      1.81
+     ],
+     "paragraphs": [
+      "On forme vos équipes pour une prise en main immédiate."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 15",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 20,
+     "pos": [
+      4.0,
+      2.81,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "2"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 16",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 21,
+     "pos": [
+      4.0,
+      3.68,
+      2.38,
+      0.68
+     ],
+     "paragraphs": [
+      "Interviews et documentation"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 17",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 22,
+     "pos": [
+      4.0,
+      4.5,
+      2.38,
+      1.81
+     ],
+     "paragraphs": [
+      "On interroge vos utilisateurs clés et on récupère votre documentation."
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 18",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 23,
+     "pos": [
+      6.98,
+      2.81,
+      0.69,
+      0.68
+     ],
+     "paragraphs": [
+      "3"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 19",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 24,
+     "pos": [
+      6.98,
+      3.68,
+      2.38,
+      0.68
+     ],
+     "paragraphs": [
+      "Mise en place"
+     ]
+    },
+    {
+     "shape": "Espace réservé du texte 20",
+     "kind": "placeholder",
+     "depth": 0,
+     "ph_idx": 25,
+     "pos": [
+      6.98,
+      4.5,
+      2.38,
+      1.81
+     ],
+     "paragraphs": [
+      "On installe et on personnalise vos agents."
+     ]
+    }
+   ],
+   "tables": [],
+   "pictures": [],
+   "smartart": 0,
+   "charts": 0,
+   "groups": [],
+   "connectors": 0,
+   "autoshapes_with_text": 0,
+   "textboxes": 0,
+   "colors": {},
+   "fonts": {},
+   "old_violets": [],
+   "old_fonts": [],
+   "gradients": 0,
+   "notes": "",
+   "comments": [],
+   "hints": []
+  }
+ ]
+}

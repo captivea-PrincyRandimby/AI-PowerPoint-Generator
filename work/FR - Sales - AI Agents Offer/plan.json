@@ -1,0 +1,195 @@
+{
+ "source": "C:/Users/Captivea-Princy-AI/Downloads/PPT Transformation/PPT Transformation/05. Render corrected/Sales knowledge/09. AI Agents Offer/FR - Sales - AI Agents Offer.pptx",
+ "output": "04. Render from claude/FR - Sales - AI Agents Offer.pptx",
+ "lang": "fr",
+ "slides": [
+  {
+   "src": 1,
+   "mode": "fill",
+   "layout": "1_Main Title",
+   "method": "couverture (sans capsule)",
+   "copy_text": {
+    "0": "Title 1",
+    "1": "Subtitle 2"
+   }
+  },
+  {
+   "mode": "summary",
+   "layout": "Summary",
+   "zones": {
+    "0": "Sommaire",
+    "13": "SOMMAIRE"
+   },
+   "method": "sommaire régénéré depuis les sections (celui du 05 listait les sections d'un autre deck)"
+  },
+  {
+   "src": 3,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section refaite (numéro en zone 1)",
+   "copy_text": {
+    "0": "Title 1"
+   },
+   "zones": {
+    "1": [
+     "01"
+    ],
+    "13": "NOUS DÉCOUVRIR"
+   },
+   "section": {
+    "num": "01",
+    "label": "Captivea et Odoo"
+   }
+  },
+  {
+   "src": 4,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 5,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 6,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 7,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section refaite (numéro en zone 1)",
+   "copy_text": {
+    "0": "Title 1"
+   },
+   "zones": {
+    "1": [
+     "02"
+    ],
+    "13": "IA"
+   },
+   "section": {
+    "num": "02",
+    "label": "Découvrir l’IA"
+   }
+  },
+  {
+   "src": 8,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 9,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 10,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 11,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 12,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 13,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section refaite (numéro en zone 1)",
+   "copy_text": {
+    "0": "Title 1"
+   },
+   "zones": {
+    "1": [
+     "03",
+     "Chacun prend une charge précise. Vous gardez la main."
+    ],
+    "13": "IA"
+   },
+   "section": {
+    "num": "03",
+    "label": "6 agents IA entraînés"
+   }
+  },
+  {
+   "src": 14,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 15,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 16,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 17,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 18,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 19,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 20,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 21,
+   "mode": "clone",
+   "method": "clone 05, capsule corrigée (6 ANGENTS IA)",
+   "zones": {
+    "13": "6 AGENTS IA"
+   }
+  },
+  {
+   "src": 22,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 23,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 24,
+   "mode": "clone",
+   "method": "clone 05, capsule harmonisée (accent)",
+   "zones": {
+    "13": "APPROCHE BUDGÉTAIRE"
+   }
+  },
+  {
+   "src": 25,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  },
+  {
+   "src": 26,
+   "mode": "clone",
+   "method": "clone 05 sur le masque du même nom"
+  }
+ ]
+}

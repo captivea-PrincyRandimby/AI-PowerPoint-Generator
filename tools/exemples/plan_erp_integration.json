@@ -1,0 +1,1460 @@
+{
+ "source": "02. French PPT to transform/Sales knowledge/01. ERP Integration Offer/FR - Template - Integration ERP Odoo.potx",
+ "output": "04. Render from claude/Sales knowledge/01. ERP Integration Offer/FR - Template - Integration ERP Odoo.pptx",
+ "lang": "fr",
+ "slides": [
+  {
+   "src": 1,
+   "mode": "fill",
+   "layout": "1_Main Title",
+   "method": "texte",
+   "zones": {
+    "0": "IMPLÉMENTATION DE L’ERP ODOO"
+   },
+   "comment": "couverture"
+  },
+  {
+   "mode": "summary",
+   "layout": "Summary",
+   "zones": {
+    "0": "SOMMAIRE",
+    "13": "SOMMAIRE"
+   }
+  },
+  {
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "CAPTIVEA ET ODOO",
+    "13": "NOUS DÉCOUVRIR",
+    "1": "01"
+   },
+   "section": {
+    "num": "01",
+    "label": "Captivea et Odoo"
+   },
+   "comment": "intercalaire créé (convention validée par François)"
+  },
+  {
+   "src": 2,
+   "mode": "fill",
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "texte + image",
+   "zones": {
+    "0": "ODOO",
+    "13": "LA SOLUTION"
+   },
+   "copy_text": {
+    "1": "TextBox 8"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Image 3"
+     ],
+     "box": [
+      7.83,
+      2.3,
+      4.75,
+      4.4
+     ]
+    }
+   ],
+   "comment": "logo Odoo ancien (Graphique 4) remplacé par le titre ; visuel produit conservé"
+  },
+  {
+   "src": 3,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "UN LOGICIEL, UNE SUCCESS STORY",
+    "13": "ODOO",
+    "23": "+16M",
+    "24": "D’UTILISATEURS",
+    "20": "+7K",
+    "21": "EMPLOYÉS",
+    "26": "+70K",
+    "27": "MODULES"
+   }
+  },
+  {
+   "src": 4,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "texte",
+   "zones": {
+    "0": "CAPTIVEA",
+    "13": "EXPERTISES",
+    "23": "ERP",
+    "29": "WEB",
+    "32": "AI",
+    "26": "BI"
+   }
+  },
+  {
+   "src": 5,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "CAPTIVEA",
+    "13": "EN CHIFFRES",
+    "23": "+800",
+    "24": "CLIENTS SATISFAITS",
+    "20": "+200",
+    "21": "EMPLOYÉS HEUREUX",
+    "26": "+18 ans",
+    "27": "D’INTÉGRATION ERP"
+   },
+   "font_size": {
+    "23": 30,
+    "20": 30,
+    "26": 30
+   }
+  },
+  {
+   "src": 6,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "FRANCE"
+   },
+   "include": [
+    "Content Placeholder 13",
+    "Content Placeholder 15"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 7,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "LUXEMBOURG"
+   },
+   "include": [
+    "Content Placeholder 13",
+    "Content Placeholder 15"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 8,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "CANADA"
+   },
+   "include": [
+    "Content Placeholder 13",
+    "Content Placeholder 15"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 9,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "MADAGASCAR"
+   },
+   "include": [
+    "Content Placeholder 13",
+    "Content Placeholder 15"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 10,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "image",
+   "zones": {
+    "0": "NOS RÉFÉRENCES",
+    "13": "RÉFÉRENCES"
+   },
+   "include": [
+    "Espace réservé du contenu 10"
+   ],
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 11,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "image",
+   "zones": {
+    "0": "Nos références au Luxembourg",
+    "13": "RÉFÉRENCES"
+   },
+   "include": [
+    "Picture 7"
+   ],
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 12,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "5c (étapes + icônes)",
+   "zones": {
+    "0": "CHRONOLOGIE DU PROJET CAPTIVEA",
+    "13": "CHRONOLOGIE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "CONSULTATION GRATUITE",
+    "30": "ESTIMATION GLOBALE",
+    "33": "PHASE D'ANALYSE",
+    "27": "PHASE D'IMPLÉMENTATION"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Groupe 13"
+     ],
+     "box": [
+      1.685,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 19"
+     ],
+     "box": [
+      4.715,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 5"
+     ],
+     "box": [
+      7.725,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 25"
+     ],
+     "box": [
+      10.745,
+      3.345,
+      0.9,
+      0.9
+     ]
+    }
+   ],
+   "comment": "4 étapes séquentielles gauche→droite, pictos d'origine dans les orbites"
+  },
+  {
+   "src": 13,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "EVOLUEZ AVEC ODOO",
+    "13": "ÉVOLUTION"
+   },
+   "exclude": [
+    "Titre 4",
+    "Forme libre : forme 38"
+   ],
+   "box": [
+    0.76,
+    1.75,
+    11.81,
+    5.0
+   ],
+   "upscale": true
+  },
+  {
+   "src": 14,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "PARCOURS PROJET"
+   },
+   "box": [
+    0.76,
+    1.7,
+    11.81,
+    5.1
+   ],
+   "upscale": true
+  },
+  {
+   "src": 15,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "5c",
+   "zones": {
+    "0": "GOUVERNANCE DU PROJET CAPTIVEA",
+    "13": "GOUVERNANCE",
+    "23": "​",
+    "20": "​",
+    "26": "​",
+    "24": "Réunions hebdomadaires de démo",
+    "21": "Réunions hebdomadaires de gestion de projet",
+    "27": "Comités de pilotage à la demande"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphic 155"
+     ],
+     "box": [
+      1.985,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Graphic 4"
+     ],
+     "box": [
+      6.215,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Graphic 157"
+     ],
+     "box": [
+      10.445,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    }
+   ]
+  },
+  {
+   "src": 16,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "L’ÉQUIPE PROJET",
+    "13": "ÉQUIPE"
+   },
+   "include": [
+    "Graphique 77"
+   ],
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 17,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a matrice",
+   "zones": {
+    "0": "DÉFINITION DES RÔLES",
+    "13": "ÉQUIPE PROJET"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 18,
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "DÉMONSTRATION",
+    "13": "UN LOGICIEL, UNE SUCCESS STORY",
+    "1": "02"
+   },
+   "section": {
+    "num": "02",
+    "label": "Démonstration"
+   }
+  },
+  {
+   "src": 19,
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "NOTRE VISION\nD’UN PROJET RÉUSSI",
+    "13": "VISION",
+    "1": "03"
+   },
+   "section": {
+    "num": "03",
+    "label": "Notre vision d’un projet réussi"
+   },
+   "comment": "illustration Storyset (fusée) non reprise"
+  },
+  {
+   "src": 20,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "SOYEZ EN LIGNE RAPIDEMENT",
+    "13": "VISION",
+    "23": "1",
+    "20": "2",
+    "26": "3",
+    "24": [
+     "RESTEZ PROCHE",
+     "DES STANDARDS"
+    ],
+    "21": [
+     "APPROCHE",
+     "MVP"
+    ],
+    "27": [
+     "ANALYSE",
+     "D’IMPLÉMENTATION"
+    ]
+   }
+  },
+  {
+   "src": 21,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a schéma (2 équipes liées)",
+   "zones": {
+    "0": "NOUS AVANÇONS ENSEMBLE TOUT AU LONG DE VOTRE PROJET !",
+    "13": "COLLABORATION"
+   },
+   "include": [
+    "Espace réservé du texte 20",
+    "Google Shape;10674;p75",
+    "Espace réservé du texte 21",
+    "Google Shape;10694;p75",
+    "Google Shape;11466;p77",
+    "Google Shape;11682;p77",
+    "Espace réservé du texte 8",
+    "Espace réservé du texte 9",
+    "Espace réservé du texte 10"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.2
+   ],
+   "upscale": true,
+   "recolor": {
+    "color": "BA131A",
+    "shapes": [
+     "Google Shape;10694;p75",
+     "Google Shape;11466;p77",
+     "Google Shape;11682;p77"
+    ]
+   }
+  },
+  {
+   "src": 22,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "SOYEZ LIBRES DE CHANGER D’AVIS EN TOUTE TRANSPARENCE !",
+    "13": "FLEXIBILITÉ",
+    "23": "1",
+    "20": "2",
+    "26": "3",
+    "24": "PÉRIMÈTRE FONCTIONNEL",
+    "21": "TIMELINE",
+    "27": "NIVEAU DE SERVICE"
+   }
+  },
+  {
+   "src": 23,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a (9 spécialistes, aucun masque à 9)",
+   "zones": {
+    "0": "BÉNÉFICIEZ DE TOUTE NOTRE EXPERTISE",
+    "13": "EXPERTISE"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 24,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau",
+   "zones": {
+    "0": "SLA\nMaintenance & Support",
+    "13": "SUPPORT"
+   },
+   "include": [
+    "Tableau 1",
+    "Espace réservé du contenu 7"
+   ],
+   "box": [
+    0.76,
+    2.6,
+    11.81,
+    4.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 25,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (cycle STELAR)",
+   "zones": {
+    "0": "LES ÉTAPES VERS UN PROJET RÉUSSI",
+    "13": "MÉTHODOLOGIE"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 26,
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "PHASE D’ANALYSE",
+    "13": "ANALYSE",
+    "1": "04"
+   },
+   "section": {
+    "num": "04",
+    "label": "Phase d’analyse"
+   },
+   "comment": "illustration Storyset non reprise"
+  },
+  {
+   "src": 27,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (processus)",
+   "zones": {
+    "0": "PROGRESSION DE L’ANALYSE",
+    "13": "PHASE D’ANALYSE"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 28,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (arborescence)",
+   "zones": {
+    "0": "LIVRABLES À LA FIN D'UNE ANALYSE",
+    "13": "PHASE D’ANALYSE"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 29,
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "PHASE D’IMPLEMENTATION\n& MISE EN PRODUCTION",
+    "13": "IMPLÉMENTATION",
+    "1": "05"
+   },
+   "section": {
+    "num": "05",
+    "label": "Phase d’implementation & mise en production"
+   }
+  },
+  {
+   "src": 30,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (processus)",
+   "zones": {
+    "0": "PHASE D’IMPLEMENTATION",
+    "13": "IMPLÉMENTATION"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 31,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (processus)",
+   "zones": {
+    "0": "MISE EN PRODUCTION",
+    "13": "IMPLÉMENTATION"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 32,
+   "mode": "fill",
+   "layout": "Boxed - 3 columns",
+   "method": "texte 3 colonnes",
+   "zones": {
+    "0": [
+     "Fiduciaire comptable 100%",
+     "spécialisée sur Odoo"
+    ],
+    "13": "CABINET LEONARD",
+    "15": "Accompagnement des créateurs d'entreprise",
+    "21": "Comptabilité",
+    "18": "Gestion de la paie et des ressources humaines"
+   },
+   "copy_text": {
+    "16": "Espace réservé du contenu 2",
+    "22": "Espace réservé du contenu 7",
+    "19": "Espace réservé du contenu 7#2"
+   },
+   "geometry": {
+    "15": [
+     0.96,
+     2.85,
+     3.35,
+     0.75
+    ],
+    "16": [
+     0.96,
+     3.65,
+     3.35,
+     2.7
+    ],
+    "21": [
+     4.99,
+     2.85,
+     3.35,
+     0.75
+    ],
+    "22": [
+     4.99,
+     3.65,
+     3.35,
+     2.7
+    ],
+    "18": [
+     9.03,
+     2.85,
+     3.35,
+     0.75
+    ],
+    "19": [
+     9.03,
+     3.65,
+     3.35,
+     2.7
+    ]
+   },
+   "font_size": {
+    "16": 12,
+    "22": 12,
+    "19": 12
+   },
+   "tight": [
+    16,
+    22,
+    19
+   ],
+   "anchor_top": [
+    16,
+    22,
+    19
+   ],
+   "comment": "Standard - 3 columns absent du template de référence -> Boxed - 3 columns ; logo Leonard (PNG blanc, invisible sur fond blanc) remplacé par la capsule"
+  },
+  {
+   "src": 33,
+   "mode": "fill",
+   "layout": "Section Title",
+   "zones": {
+    "0": "APPROCHE BUDGÉTAIRE",
+    "13": "BUDGET",
+    "1": "06"
+   },
+   "section": {
+    "num": "06",
+    "label": "Approche budgétaire"
+   },
+   "comment": "illustration Storyset non reprise"
+  },
+  {
+   "src": 34,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "5c (3 modes + pictos)",
+   "zones": {
+    "0": "NOS MODES DE PROJETS\nLOCAL, HYBRIDE OU OFFSHORE",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "20": "​",
+    "26": "​",
+    "24": "LOCAL",
+    "21": "HYBRIDE",
+    "27": "OFFSHORE"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Ellipse 13",
+      "Google Shape;10649;p75#1"
+     ],
+     "box": [
+      1.835,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Groupe 26",
+      "Google Shape;10649;p75#3"
+     ],
+     "box": [
+      6.065,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Ellipse 37",
+      "Google Shape;10649;p75#4"
+     ],
+     "box": [
+      10.295,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    }
+   ]
+  },
+  {
+   "src": 35,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "5c (4 étapes + icônes)",
+   "zones": {
+    "0": "NOTRE OFFRE DE PRIX",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Analyse",
+    "33": "Implémentation",
+    "27": "Achats de modules supplémentaires"
+   },
+   "copy_text": {
+    "30": "Espace réservé du texte 11"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Google Shape;10712;p75"
+     ],
+     "box": [
+      1.685,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Groupe 26"
+     ],
+     "box": [
+      4.585,
+      3.345,
+      1.16,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Google Shape;10957;p75"
+     ],
+     "box": [
+      7.725,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Google Shape;11558;p77"
+     ],
+     "box": [
+      10.745,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "ZoneTexte 27"
+     ],
+     "box": [
+      3.12,
+      3.45,
+      1.06,
+      0.7
+     ],
+     "scale_fonts": false
+    }
+   ]
+  },
+  {
+   "src": 36,
+   "mode": "fill",
+   "layout": "Boxed - 3 columns",
+   "method": "3 options parallèles",
+   "zones": {
+    "0": "DIVERSES OPTIONS D'HÉBERGEMENT ODOO",
+    "13": "HÉBERGEMENT"
+   },
+   "copy_text": {
+    "15": "TextBox 28",
+    "16": "TextBox 37",
+    "21": "TextBox 26",
+    "22": "TextBox 34",
+    "18": "TextBox 77",
+    "19": "TextBox 35"
+   },
+   "geometry": {
+    "15": [
+     0.96,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "16": [
+     0.96,
+     3.5,
+     3.35,
+     2.85
+    ],
+    "21": [
+     4.99,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "22": [
+     4.99,
+     3.5,
+     3.35,
+     2.85
+    ],
+    "18": [
+     9.03,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "19": [
+     9.03,
+     3.5,
+     3.35,
+     2.85
+    ]
+   },
+   "comment": "ordre visuel source : Sur site / Odoo Cloud / Odoo SH ; petits pictos décoratifs non repris",
+   "font_size": {
+    "16": 10.5,
+    "22": 10.5,
+    "19": 10.5
+   },
+   "anchor_top": [
+    16,
+    22,
+    19
+   ],
+   "tight": [
+    16,
+    22,
+    19
+   ]
+  },
+  {
+   "src": 37,
+   "mode": "fill",
+   "layout": "Circles - 2 columns",
+   "method": "texte",
+   "zones": {
+    "0": "ODOO",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": [
+     "Licences",
+     "Odoo"
+    ],
+    "26": [
+     "Hébergement",
+     "Odoo.SH"
+    ],
+    "24": "37,40€ /m/utilisateur",
+    "27": "29,90€ /mois"
+   },
+   "copy_text": {
+    "25": "Espace réservé du texte 5#3"
+   },
+   "geometry": {
+    "25": [
+     0.76,
+     5.75,
+     11.81,
+     0.95
+    ]
+   },
+   "font_size": {
+    "23": 20,
+    "26": 20
+   }
+  },
+  {
+   "src": 38,
+   "mode": "fill",
+   "layout": "Standard - 2 columns with subititle",
+   "method": "2 images",
+   "zones": {
+    "0": "A la demande",
+    "13": "OPTIONS",
+    "1": "OCR",
+    "3": "Complétion de contact automatique"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Picture 9"
+     ],
+     "box": [
+      0.76,
+      3.4,
+      5.64,
+      3.4
+     ]
+    },
+    {
+     "shapes": [
+      "Picture 15"
+     ],
+     "box": [
+      6.9,
+      3.4,
+      5.67,
+      3.4
+     ]
+    }
+   ]
+  },
+  {
+   "src": 39,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - FRANCE",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "114.00 EUR/h HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "132.00 EUR/h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "152.00 EUR/h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "182.00 EUR/h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 40,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - LUXEMBOURG",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "120.00 EUR/h HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "138.00 EUR/h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "155.00 EUR/h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "180.00 EUR/h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 41,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - MADAGASCAR",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": [
+     "16.00 EUR /h HT",
+     "80,000.00 MGA /h HT"
+    ],
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": [
+     "24.00 EUR /h HT",
+     "120,000.00 MGA /h HT"
+    ],
+    "33": "Consultant / Développeur Odoo Master",
+    "34": [
+     "28.00 EUR /h HT",
+     "140,000,00 MGA /h HT"
+    ],
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": [
+     "30.00 EUR/h HT",
+     "150,000.00 MGA /h HT"
+    ]
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 42,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - CANADA",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "140.00 CAD /H HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "180.00 CAD /h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "200.00 CAD /h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "225.00 CAD /h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 43,
+   "mode": "fill",
+   "layout": "Standard - 2 columns with subititle",
+   "method": "texte 2 colonnes",
+   "zones": {
+    "0": "PHASE D’ANALYSE",
+    "13": "APPROCHE BUDGÉTAIRE"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10",
+    "2": "Espace réservé du contenu 11",
+    "3": "Espace réservé du texte 4",
+    "4": "Espace réservé du contenu 17"
+   },
+   "geometry": {
+    "4": [
+     6.9,
+     3.47,
+     5.67,
+     1.9
+    ]
+   },
+   "place": [
+    {
+     "shapes": [
+      "Espace réservé du texte 15"
+     ],
+     "box": [
+      8.75,
+      4.95,
+      1.85,
+      1.85
+     ],
+     "badge": true
+    }
+   ],
+   "comment": "surlignages jaunes (valeurs à personnaliser) conservés",
+   "font_size": {
+    "2": 12,
+    "4": 12
+   }
+  },
+  {
+   "src": 44,
+   "mode": "fill",
+   "layout": "Standard - 2 columns with subititle",
+   "method": "texte 2 colonnes",
+   "zones": {
+    "0": "IMPLÉMENTATION",
+    "13": "APPROCHE BUDGÉTAIRE"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 6",
+    "2": "Espace réservé du contenu 7",
+    "3": "Espace réservé du texte 8",
+    "4": "Espace réservé du contenu 9"
+   },
+   "comment": "surlignages jaunes conservés"
+  },
+  {
+   "src": 45,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a (texte dense + bouton)",
+   "zones": {
+    "0": "Packages & coûts",
+    "13": "SME PACKAGES"
+   },
+   "box": [
+    0.76,
+    2.5,
+    11.81,
+    4.35
+   ],
+   "upscale": true
+  },
+  {
+   "src": 46,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (image)",
+   "zones": {
+    "0": "Procédures",
+    "13": "SME PACKAGES"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 47,
+   "mode": "transplant",
+   "layout": "Standard - Empty",
+   "method": "5a composition",
+   "zones": {},
+   "absolute": true,
+   "background": "gradient",
+   "comment": "slide de conclusion : composition d'origine, fond au dégradé charte"
+  },
+  {
+   "src": 48,
+   "mode": "design",
+   "design": "bureaux_fr",
+   "method": "slide de design du template (Nos bureaux, version FR)",
+   "comment": "slide récurrente : design + contenu officiels du template (inclut Suisse / Genève)"
+  }
+ ]
+}

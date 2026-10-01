@@ -1,0 +1,6 @@
+python-pptx==1.0.2
+lxml==5.2.1
+openpyxl==3.1.2
+pillow==10.2.0
+pywin32==312
+# Rendu visuel : Microsoft PowerPoint (Windows) piloté par COM (tools/render.py)

@@ -1,0 +1,4933 @@
+{
+ "source": "02. French PPT to transform/FR - Template Analysis V4.1.potx",
+ "output": "04. Render from claude/FR - Template Analysis V4.1.pptx",
+ "lang": "fr",
+ "slides": [
+  {
+   "src": 1,
+   "mode": "fill",
+   "layout": "1_Main Title",
+   "method": "couverture (logo Odoo Gold Partner ancien branding non repris)",
+   "zones": {
+    "0": "RAPPORT D’ANALYSE CLIENT"
+   }
+  },
+  {
+   "mode": "summary",
+   "layout": "Summary",
+   "zones": {
+    "0": "Sommaire",
+    "13": "SOMMAIRE"
+   },
+   "method": "sommaire régénéré depuis les sections (remplace la slide source 2)"
+  },
+  {
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section créée (1er point du sommaire source)",
+   "zones": {
+    "0": "CONTEXTE",
+    "1": "01",
+    "13": "RAPPORT D’ANALYSE"
+   },
+   "section": {
+    "num": "01",
+    "label": "Contexte"
+   }
+  },
+  {
+   "src": 3,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "5c (étapes + icônes)",
+   "zones": {
+    "0": "CHRONOLOGIE DU PROJET CAPTIVEA",
+    "13": "CHRONOLOGIE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "CONSULTATION GRATUITE",
+    "30": "ESTIMATION GLOBALE",
+    "33": "PHASE D'ANALYSE",
+    "27": "PHASE D'IMPLÉMENTATION"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Groupe 13"
+     ],
+     "box": [
+      1.685,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 19"
+     ],
+     "box": [
+      4.715,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 5"
+     ],
+     "box": [
+      7.725,
+      3.345,
+      0.9,
+      0.9
+     ]
+    },
+    {
+     "shapes": [
+      "Groupe 25"
+     ],
+     "box": [
+      10.745,
+      3.345,
+      0.9,
+      0.9
+     ]
+    }
+   ]
+  },
+  {
+   "src": 4,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "EVOLUEZ AVEC ODOO",
+    "13": "ÉVOLUTION"
+   },
+   "exclude": [
+    "Titre 4",
+    "Forme libre : forme 38"
+   ],
+   "box": [
+    0.76,
+    1.75,
+    11.81,
+    5.0
+   ],
+   "upscale": true
+  },
+  {
+   "src": 5,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "Vos interlocuteurs",
+    "13": "PARCOURS PROJET"
+   },
+   "box": [
+    0.76,
+    1.7,
+    11.81,
+    5.1
+   ],
+   "upscale": true
+  },
+  {
+   "src": 6,
+   "mode": "fill",
+   "layout": "Boxed - 2 columns",
+   "method": "2 éléments parallèles",
+   "zones": {
+    "0": "Introduction",
+    "13": "CONTEXTE",
+    "15": "NOTRE BUT",
+    "18": "APPROCHE PROJET"
+   },
+   "copy_text": {
+    "16": "ZoneTexte 11",
+    "19": "ZoneTexte 13"
+   },
+   "geometry": {
+    "15": [
+     0.96,
+     2.9,
+     5.31,
+     0.6
+    ],
+    "16": [
+     0.96,
+     3.6,
+     5.31,
+     2.6
+    ],
+    "18": [
+     7.06,
+     2.9,
+     5.31,
+     0.6
+    ],
+    "19": [
+     7.06,
+     3.6,
+     5.31,
+     2.6
+    ]
+   },
+   "font_size": {
+    "16": 14,
+    "19": 14
+   },
+   "anchor_top": [
+    16,
+    19
+   ],
+   "comment": "pictos coche / cible portés par l'ancien masque : non repris"
+  },
+  {
+   "src": 7,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte + crayons « à compléter »",
+   "zones": {
+    "0": "Introduction",
+    "13": "CONTEXTE"
+   },
+   "copy_text": {
+    "1": "Google Shape;2430;p3"
+   },
+   "font_size": {
+    "1": 14
+   },
+   "anchor_top": [
+    1
+   ],
+   "place": [
+    {
+     "shapes": [
+      "Graphique 2"
+     ],
+     "box": [
+      5.0,
+      2.45,
+      0.75,
+      0.75
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 3"
+     ],
+     "box": [
+      3.3,
+      4.3,
+      0.75,
+      0.75
+     ]
+    }
+   ]
+  },
+  {
+   "src": 8,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte + crayon « à compléter »",
+   "zones": {
+    "0": "Vocabulaire",
+    "13": "CONTEXTE"
+   },
+   "copy_text": {
+    "1": "Google Shape;2430;p3"
+   },
+   "font_size": {
+    "1": 14
+   },
+   "anchor_top": [
+    1
+   ],
+   "place": [
+    {
+     "shapes": [
+      "Graphique 2"
+     ],
+     "box": [
+      3.3,
+      2.45,
+      0.75,
+      0.75
+     ]
+    }
+   ]
+  },
+  {
+   "src": 9,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section",
+   "zones": {
+    "0": "NOTRE VISION\nD’UN PROJET RÉUSSI",
+    "1": "02",
+    "13": "VISION"
+   },
+   "section": {
+    "num": "02",
+    "label": "Réussir votre projet"
+   }
+  },
+  {
+   "src": 10,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "SOYEZ EN LIGNE RAPIDEMENT",
+    "13": "VISION",
+    "23": "1",
+    "20": "2",
+    "26": "3",
+    "24": [
+     "RESTEZ PROCHE",
+     "DES STANDARDS"
+    ],
+    "21": [
+     "APPROCHE",
+     "MVP"
+    ],
+    "27": [
+     "ANALYSE",
+     "D’IMPLÉMENTATION"
+    ]
+   }
+  },
+  {
+   "src": 11,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a schéma (2 équipes liées)",
+   "zones": {
+    "0": "NOUS AVANÇONS ENSEMBLE TOUT AU LONG DE VOTRE PROJET !",
+    "13": "COLLABORATION"
+   },
+   "include": [
+    "Espace réservé du texte 20",
+    "Google Shape;10674;p75",
+    "Espace réservé du texte 21",
+    "Google Shape;10694;p75",
+    "Google Shape;11466;p77",
+    "Google Shape;11682;p77",
+    "Espace réservé du texte 8",
+    "Espace réservé du texte 9",
+    "Espace réservé du texte 10"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.2
+   ],
+   "upscale": true,
+   "recolor": {
+    "color": "BA131A",
+    "shapes": [
+     "Google Shape;10694;p75",
+     "Google Shape;11466;p77",
+     "Google Shape;11682;p77"
+    ]
+   }
+  },
+  {
+   "src": 12,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "SOYEZ LIBRES DE CHANGER D’AVIS EN TOUTE TRANSPARENCE !",
+    "13": "FLEXIBILITÉ",
+    "23": "1",
+    "20": "2",
+    "26": "3",
+    "24": "PÉRIMÈTRE FONCTIONNEL",
+    "21": "TIMELINE",
+    "27": "NIVEAU DE SERVICE"
+   }
+  },
+  {
+   "src": 13,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a (9 spécialistes, aucun masque à 9)",
+   "zones": {
+    "0": "BÉNÉFICIEZ DE TOUTE NOTRE EXPERTISE",
+    "13": "EXPERTISE"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 14,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (cycle STELAR)",
+   "zones": {
+    "0": "LES ÉTAPES VERS UN PROJET RÉUSSI",
+    "13": "MÉTHODOLOGIE"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 15,
+   "mode": "fill",
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "texte + image",
+   "zones": {
+    "0": "ODOO",
+    "13": "LA SOLUTION"
+   },
+   "copy_text": {
+    "1": "TextBox 8"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Image 3"
+     ],
+     "box": [
+      7.83,
+      2.3,
+      4.75,
+      4.4
+     ]
+    }
+   ]
+  },
+  {
+   "src": 16,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "texte",
+   "zones": {
+    "0": "UN LOGICIEL, UNE SUCCESS STORY",
+    "13": "ODOO",
+    "23": "+12M",
+    "24": "D’UTILISATEURS",
+    "20": "+5K",
+    "21": "EMPLOYÉS",
+    "26": "+47K",
+    "27": "MODULES"
+   }
+  },
+  {
+   "src": 17,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section",
+   "zones": {
+    "0": "BESOINS ET SOLUTIONS",
+    "1": "03",
+    "13": "ANALYSE"
+   },
+   "section": {
+    "num": "03",
+    "label": "Besoins & Solutions"
+   }
+  },
+  {
+   "src": 18,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (image) + lien + crayon",
+   "zones": {
+    "0": "Schéma du process global",
+    "13": "PROCESS"
+   },
+   "include": [
+    "Espace réservé du contenu 6",
+    "ZoneTexte 1",
+    "Graphique 4"
+   ],
+   "box": [
+    0.76,
+    1.7,
+    11.81,
+    5.15
+   ],
+   "upscale": true
+  },
+  {
+   "src": 19,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (image) + lien + crayon",
+   "zones": {
+    "0": "Zoom schéma process A",
+    "13": "PROCESS"
+   },
+   "include": [
+    "Espace réservé du contenu 5",
+    "ZoneTexte 4",
+    "Graphique 3"
+   ],
+   "box": [
+    0.76,
+    1.7,
+    11.81,
+    5.15
+   ],
+   "upscale": true
+  },
+  {
+   "src": 20,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (image) + lien + crayon",
+   "zones": {
+    "0": "Zoom schéma process B",
+    "13": "PROCESS"
+   },
+   "include": [
+    "Espace réservé du contenu 5",
+    "ZoneTexte 4",
+    "Graphique 2"
+   ],
+   "box": [
+    0.76,
+    1.7,
+    11.81,
+    5.15
+   ],
+   "upscale": true
+  },
+  {
+   "src": 21,
+   "mode": "fill",
+   "layout": "Design - Arrow down",
+   "method": "intercalaire",
+   "zones": {
+    "0": "BESOINS COUVERTS PAR VOTRE NOUVEAU ODOO",
+    "13": "BESOINS & SOLUTIONS"
+   },
+   "comment": "illustration Storyset non reprise"
+  },
+  {
+   "src": 22,
+   "mode": "fill",
+   "zones": {
+    "0": "INSTALLATION – Odoo.sh (PAAS)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Google Shape;2430;p3"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 23,
+   "mode": "fill",
+   "zones": {
+    "0": "INSTALLATION – Cloud (SAAS)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du contenu 2"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 24,
+   "mode": "fill",
+   "zones": {
+    "0": "INSTALLATION – On Premise",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du contenu 2"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 25,
+   "mode": "fill",
+   "zones": {
+    "0": "PARAMETRES GENERAUX",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 6"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 26,
+   "mode": "fill",
+   "zones": {
+    "0": "PARAMETRES GENERAUX",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 6"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 27,
+   "mode": "fill",
+   "zones": {
+    "0": "COMPTABILITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 4"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 11
+   },
+   "tight": [
+    1
+   ]
+  },
+  {
+   "src": 28,
+   "mode": "fill",
+   "zones": {
+    "0": "COMPTABILITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 29,
+   "mode": "fill",
+   "zones": {
+    "0": "COMPTABILITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 30,
+   "mode": "fill",
+   "zones": {
+    "0": "PRODUITS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 8"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 3"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 31,
+   "mode": "fill",
+   "zones": {
+    "0": "PRODUITS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 32,
+   "mode": "fill",
+   "zones": {
+    "0": "CONTACTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 14
+   }
+  },
+  {
+   "src": 33,
+   "mode": "fill",
+   "zones": {
+    "0": "CONTACTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 34,
+   "mode": "fill",
+   "zones": {
+    "0": "CRM",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 14
+   }
+  },
+  {
+   "src": 35,
+   "mode": "fill",
+   "zones": {
+    "0": "CRM",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 36,
+   "mode": "fill",
+   "zones": {
+    "0": "RENDEZ-VOUS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 37,
+   "mode": "fill",
+   "zones": {
+    "0": "RENDEZ-VOUS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 38,
+   "mode": "fill",
+   "zones": {
+    "0": "VENTES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 14
+   }
+  },
+  {
+   "src": 39,
+   "mode": "fill",
+   "zones": {
+    "0": "VENTES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 40,
+   "mode": "fill",
+   "zones": {
+    "0": "SITE WEB",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 41,
+   "mode": "fill",
+   "zones": {
+    "0": "SITE WEB",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 42,
+   "mode": "fill",
+   "zones": {
+    "0": "E-COMMERCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 43,
+   "mode": "fill",
+   "zones": {
+    "0": "E-COMMERCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 44,
+   "mode": "fill",
+   "zones": {
+    "0": "ABONNEMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 45,
+   "mode": "fill",
+   "zones": {
+    "0": "ABONNEMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 46,
+   "mode": "fill",
+   "zones": {
+    "0": "LOCATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 47,
+   "mode": "fill",
+   "zones": {
+    "0": "LOCATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 48,
+   "mode": "fill",
+   "zones": {
+    "0": "POINT DE VENTE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 49,
+   "mode": "fill",
+   "zones": {
+    "0": "POINT DE VENTE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 50,
+   "mode": "fill",
+   "zones": {
+    "0": "POINT DE VENTE - Restaurant",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 51,
+   "mode": "fill",
+   "zones": {
+    "0": "POINT DE VENTE - Restaurant",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 52,
+   "mode": "fill",
+   "zones": {
+    "0": "STOCK",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 14
+   }
+  },
+  {
+   "src": 53,
+   "mode": "fill",
+   "zones": {
+    "0": "STOCK",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 54,
+   "mode": "fill",
+   "zones": {
+    "0": "CODE BARRE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 55,
+   "mode": "fill",
+   "zones": {
+    "0": "CODE BARRE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 56,
+   "mode": "fill",
+   "zones": {
+    "0": "ACHATS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 57,
+   "mode": "fill",
+   "zones": {
+    "0": "ACHATS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 58,
+   "mode": "fill",
+   "zones": {
+    "0": "ESG",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 59,
+   "mode": "fill",
+   "zones": {
+    "0": "ESG",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 60,
+   "mode": "fill",
+   "zones": {
+    "0": "FABRICATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 3"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 61,
+   "mode": "fill",
+   "zones": {
+    "0": "FABRICATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 62,
+   "mode": "fill",
+   "zones": {
+    "0": "QUALITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 63,
+   "mode": "fill",
+   "zones": {
+    "0": "QUALITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 64,
+   "mode": "fill",
+   "zones": {
+    "0": "PLM",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 65,
+   "mode": "fill",
+   "zones": {
+    "0": "PLM",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 66,
+   "mode": "fill",
+   "zones": {
+    "0": "MAINTENANCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 67,
+   "mode": "fill",
+   "zones": {
+    "0": "MAINTENANCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 68,
+   "mode": "fill",
+   "zones": {
+    "0": "REPARATIONS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 69,
+   "mode": "fill",
+   "zones": {
+    "0": "REPARATIONS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 70,
+   "mode": "fill",
+   "zones": {
+    "0": "PROJETS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 71,
+   "mode": "fill",
+   "zones": {
+    "0": "PROJETS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 72,
+   "mode": "fill",
+   "zones": {
+    "0": "FEUILLES DE TEMPS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 73,
+   "mode": "fill",
+   "zones": {
+    "0": "FEUILLES DE TEMPS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 74,
+   "mode": "fill",
+   "zones": {
+    "0": "SERVICE SUR SITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 75,
+   "mode": "fill",
+   "zones": {
+    "0": "SERVICE SUR SITE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 76,
+   "mode": "fill",
+   "zones": {
+    "0": "FLEET (PARC AUTOMOBILE)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 77,
+   "mode": "fill",
+   "zones": {
+    "0": "FLEET (PARC AUTOMOBILE)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 78,
+   "mode": "fill",
+   "zones": {
+    "0": "ASSISTANCE / TICKETING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 79,
+   "mode": "fill",
+   "zones": {
+    "0": "ASSISTANCE / TICKETING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 80,
+   "mode": "fill",
+   "zones": {
+    "0": "PLANNING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 81,
+   "mode": "fill",
+   "zones": {
+    "0": "PLANNING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 82,
+   "mode": "fill",
+   "zones": {
+    "0": "EMAIL MARKETING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 83,
+   "mode": "fill",
+   "zones": {
+    "0": "EMAIL MARKETING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 84,
+   "mode": "fill",
+   "zones": {
+    "0": "MARKETING AUTOMATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 85,
+   "mode": "fill",
+   "zones": {
+    "0": "MARKETING AUTOMATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 86,
+   "mode": "fill",
+   "zones": {
+    "0": "SONDAGES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 87,
+   "mode": "fill",
+   "zones": {
+    "0": "SONDAGES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 88,
+   "mode": "fill",
+   "zones": {
+    "0": "EMPLOYES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 89,
+   "mode": "fill",
+   "zones": {
+    "0": "EMPLOYES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 90,
+   "mode": "fill",
+   "zones": {
+    "0": "PAIE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 91,
+   "mode": "fill",
+   "zones": {
+    "0": "PAIE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 92,
+   "mode": "fill",
+   "zones": {
+    "0": "NOTES DE FRAIS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 93,
+   "mode": "fill",
+   "zones": {
+    "0": "NOTES DE FRAIS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 94,
+   "mode": "fill",
+   "zones": {
+    "0": "CONGES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 95,
+   "mode": "fill",
+   "zones": {
+    "0": "CONGES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 96,
+   "mode": "fill",
+   "zones": {
+    "0": "PRESENCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 97,
+   "mode": "fill",
+   "zones": {
+    "0": "PRESENCE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 98,
+   "mode": "fill",
+   "zones": {
+    "0": "RECRUTEMENT",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 99,
+   "mode": "fill",
+   "zones": {
+    "0": "RECRUTEMENT",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 100,
+   "mode": "fill",
+   "zones": {
+    "0": "EVALUATIONS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 101,
+   "mode": "fill",
+   "zones": {
+    "0": "EVALUATIONS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 102,
+   "mode": "fill",
+   "zones": {
+    "0": "DOCUMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 103,
+   "mode": "fill",
+   "zones": {
+    "0": "DOCUMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 104,
+   "mode": "fill",
+   "zones": {
+    "0": "NINJA DASHBOARD",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 105,
+   "mode": "fill",
+   "zones": {
+    "0": "NINJA DASHBOARD",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 106,
+   "mode": "fill",
+   "zones": {
+    "0": "NETTOYAGE DES DONNEES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 107,
+   "mode": "fill",
+   "zones": {
+    "0": "NETTOYAGE DES DONNEES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 108,
+   "mode": "fill",
+   "zones": {
+    "0": "DROITS D’ACCES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 109,
+   "mode": "fill",
+   "zones": {
+    "0": "DROITS D’ACCES",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 110,
+   "mode": "fill",
+   "zones": {
+    "0": "E-LEARNING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 111,
+   "mode": "fill",
+   "zones": {
+    "0": "E-LEARNING",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 112,
+   "mode": "fill",
+   "zones": {
+    "0": "EVENEMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 113,
+   "mode": "fill",
+   "zones": {
+    "0": "EVENEMENTS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 114,
+   "mode": "fill",
+   "zones": {
+    "0": "VALIDATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 115,
+   "mode": "fill",
+   "zones": {
+    "0": "VALIDATION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 116,
+   "mode": "fill",
+   "zones": {
+    "0": "OBJECTIFS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 2"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 117,
+   "mode": "fill",
+   "zones": {
+    "0": "OBJECTIFS",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 118,
+   "mode": "fill",
+   "zones": {
+    "0": "SIGNATURE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 13
+   }
+  },
+  {
+   "src": 119,
+   "mode": "fill",
+   "zones": {
+    "0": "SIGNATURE",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 120,
+   "mode": "fill",
+   "zones": {
+    "0": "EQUITY (CAPITAUX PROPRES)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 121,
+   "mode": "fill",
+   "zones": {
+    "0": "EQUITY (CAPITAUX PROPRES)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 122,
+   "mode": "fill",
+   "zones": {
+    "0": "AI (INTELLIGENCE ARTIFICIELLE)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "1_Standard -  2/3 1/3 columns",
+   "method": "fiche module : texte + capture d'écran",
+   "place": [
+    {
+     "shapes": [
+      "Image 1"
+     ],
+     "box": [
+      7.83,
+      2.45,
+      4.75,
+      4.3
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 123,
+   "mode": "fill",
+   "zones": {
+    "0": "AI (INTELLIGENCE ARTIFICIELLE)",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 124,
+   "mode": "fill",
+   "zones": {
+    "0": "MISE EN PRODUCTION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte",
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 125,
+   "mode": "fill",
+   "zones": {
+    "0": "MISE EN PRODUCTION",
+    "13": "BESOINS COUVERTS"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 10"
+   },
+   "anchor_top": [
+    1
+   ],
+   "layout": "Standard - 1 column",
+   "method": "fiche module : texte + crayon « à compléter »",
+   "place": [
+    {
+     "shapes": [
+      "Graphique 1"
+     ],
+     "box": [
+      0.18,
+      2.62,
+      0.5,
+      0.52
+     ]
+    }
+   ],
+   "font_size": {
+    "1": 16
+   }
+  },
+  {
+   "src": 126,
+   "mode": "fill",
+   "layout": "Design - Arrow down",
+   "method": "intercalaire",
+   "zones": {
+    "0": "LISTE DES TÂCHES",
+    "13": "BESOINS & SOLUTIONS"
+   },
+   "comment": "illustration Storyset non reprise"
+  },
+  {
+   "src": 127,
+   "mode": "fill",
+   "layout": "Standard - 2 columns with subititle",
+   "method": "2 colonnes + post-it interne",
+   "zones": {
+    "0": "Phase 1 (MVP)",
+    "13": "LISTE DES TÂCHES"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 6",
+    "2": "Espace réservé du contenu 7",
+    "3": "Espace réservé du texte 8",
+    "4": "Espace réservé du contenu 9"
+   },
+   "font_size": {
+    "2": 14,
+    "4": 14
+   },
+   "anchor_top": [
+    2,
+    4
+   ],
+   "place": [
+    {
+     "shapes": [
+      "ZoneTexte 3"
+     ],
+     "box": [
+      8.95,
+      0.58,
+      4.1,
+      1.0
+     ],
+     "scale_fonts": false
+    }
+   ]
+  },
+  {
+   "src": 128,
+   "mode": "fill",
+   "layout": "Standard - 2 columns with subititle",
+   "method": "2 colonnes + post-it interne",
+   "zones": {
+    "0": "Phase 2",
+    "13": "LISTE DES TÂCHES"
+   },
+   "copy_text": {
+    "1": "Espace réservé du texte 6",
+    "2": "Espace réservé du contenu 7",
+    "3": "Espace réservé du texte 8",
+    "4": "Espace réservé du contenu 9"
+   },
+   "font_size": {
+    "2": 14,
+    "4": 14
+   },
+   "anchor_top": [
+    2,
+    4
+   ],
+   "place": [
+    {
+     "shapes": [
+      "ZoneTexte 10"
+     ],
+     "box": [
+      8.95,
+      0.58,
+      4.1,
+      1.0
+     ],
+     "scale_fonts": false
+    }
+   ]
+  },
+  {
+   "src": 129,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section",
+   "zones": {
+    "0": "OFFRE",
+    "1": "04",
+    "13": "BUDGET"
+   },
+   "section": {
+    "num": "04",
+    "label": "Offre"
+   }
+  },
+  {
+   "src": 130,
+   "mode": "fill",
+   "layout": "Circles - 3 columns",
+   "method": "5c (3 modes + pictos)",
+   "zones": {
+    "0": "NOS MODES DE PROJETS\nLOCAL, HYBRIDE OU OFFSHORE",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "20": "​",
+    "26": "​",
+    "24": "LOCAL",
+    "21": "HYBRIDE",
+    "27": "OFFSHORE"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Ellipse 13",
+      "Google Shape;10649;p75#1"
+     ],
+     "box": [
+      1.835,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Groupe 26",
+      "Google Shape;10649;p75#3"
+     ],
+     "box": [
+      6.065,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Ellipse 37",
+      "Google Shape;10649;p75#4"
+     ],
+     "box": [
+      10.295,
+      3.195,
+      1.2,
+      1.2
+     ],
+     "recolor": "BA131A"
+    }
+   ]
+  },
+  {
+   "src": 131,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "5c (4 étapes + icônes)",
+   "zones": {
+    "0": "NOTRE OFFRE DE PRIX",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Analyse",
+    "33": "Implémentation",
+    "27": "Achats de modules supplémentaires"
+   },
+   "copy_text": {
+    "30": "Espace réservé du texte 11"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Google Shape;10712;p75"
+     ],
+     "box": [
+      1.685,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Groupe 26"
+     ],
+     "box": [
+      4.585,
+      3.345,
+      1.16,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Google Shape;10957;p75"
+     ],
+     "box": [
+      7.725,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "Google Shape;11558;p77"
+     ],
+     "box": [
+      10.745,
+      3.345,
+      0.9,
+      0.9
+     ],
+     "recolor": "BA131A"
+    },
+    {
+     "shapes": [
+      "ZoneTexte 27"
+     ],
+     "box": [
+      3.12,
+      3.45,
+      1.06,
+      0.7
+     ],
+     "scale_fonts": false
+    }
+   ]
+  },
+  {
+   "src": 132,
+   "mode": "fill",
+   "layout": "Boxed - 3 columns",
+   "method": "3 options parallèles",
+   "zones": {
+    "0": "DIVERSES OPTIONS D'HÉBERGEMENT ODOO",
+    "13": "HÉBERGEMENT"
+   },
+   "copy_text": {
+    "15": "TextBox 28",
+    "16": "TextBox 37",
+    "21": "TextBox 26",
+    "22": "TextBox 34",
+    "18": "TextBox 77",
+    "19": "TextBox 35"
+   },
+   "geometry": {
+    "15": [
+     0.96,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "16": [
+     0.96,
+     3.5,
+     3.35,
+     2.85
+    ],
+    "21": [
+     4.99,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "22": [
+     4.99,
+     3.5,
+     3.35,
+     2.85
+    ],
+    "18": [
+     9.03,
+     2.9,
+     3.35,
+     0.55
+    ],
+    "19": [
+     9.03,
+     3.5,
+     3.35,
+     2.85
+    ]
+   },
+   "font_size": {
+    "16": 10.5,
+    "22": 10.5,
+    "19": 10.5
+   },
+   "anchor_top": [
+    16,
+    22,
+    19
+   ],
+   "tight": [
+    16,
+    22,
+    19
+   ]
+  },
+  {
+   "src": 133,
+   "mode": "fill",
+   "layout": "Circles - 2 columns",
+   "method": "2 éléments + post-it interne",
+   "zones": {
+    "0": "License Odoo",
+    "13": "APPROCHE BUDGÉTAIRE"
+   },
+   "copy_text": {
+    "23": "Espace réservé du texte 3",
+    "26": "Espace réservé du texte 4",
+    "24": "Espace réservé du texte 5",
+    "27": "Espace réservé du texte 5#2",
+    "25": "Espace réservé du texte 5#3"
+   },
+   "geometry": {
+    "24": [
+     1.48,
+     4.87,
+     4.4,
+     0.75
+    ],
+    "25": [
+     0.76,
+     5.9,
+     11.81,
+     0.8
+    ]
+   },
+   "font_size": {
+    "23": 20,
+    "26": 20,
+    "24": 12
+   },
+   "place": [
+    {
+     "shapes": [
+      "ZoneTexte 3"
+     ],
+     "box": [
+      8.95,
+      0.58,
+      4.1,
+      1.2
+     ],
+     "scale_fonts": false
+    }
+   ]
+  },
+  {
+   "src": 134,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - FRANCE",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "110.00 EUR/h HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "130.00 EUR/h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "150.00 EUR/h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "180.00 EUR/h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 135,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - LUXEMBOURG",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "120.00 EUR/h HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "138.00 EUR/h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "155.00 EUR/h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "180.00 EUR/h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 136,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - MADAGASCAR",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": [
+     "16.00 EUR /h HT",
+     "80,000.00 MGA /h HT"
+    ],
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": [
+     "24.00 EUR /h HT",
+     "120,000.00 MGA /h HT"
+    ],
+    "33": "Consultant / Développeur Odoo Master",
+    "34": [
+     "28.00 EUR /h HT",
+     "140,000,00 MGA /h HT"
+    ],
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": [
+     "30.00 EUR/h HT",
+     "150,000.00 MGA /h HT"
+    ]
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 137,
+   "mode": "fill",
+   "layout": "Circles - 4 columns",
+   "method": "4 niveaux parallèles",
+   "zones": {
+    "0": "NOS NIVEAUX D’EXPERTISE - CANADA",
+    "13": "APPROCHE BUDGÉTAIRE",
+    "23": "​",
+    "29": "​",
+    "32": "​",
+    "26": "​",
+    "24": "Consultant / Développeur Odoo",
+    "25": "140.00 CAD /H HT",
+    "30": "Consultant / Développeur Odoo Certifié",
+    "31": "180.00 CAD /h HT",
+    "33": "Consultant / Développeur Odoo Master",
+    "34": "200.00 CAD /h HT",
+    "27": "Consultant / Développeur Odoo Legend",
+    "28": "225.00 CAD /h HT"
+   },
+   "place": [
+    {
+     "shapes": [
+      "Graphique 15"
+     ],
+     "box": [
+      1.385,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 21"
+     ],
+     "box": [
+      4.415,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 17"
+     ],
+     "box": [
+      7.425,
+      3.045,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "shapes": [
+      "Graphique 19"
+     ],
+     "box": [
+      10.445,
+      3.045,
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "src": 138,
+   "mode": "fill",
+   "layout": "Standard - 2 columns",
+   "method": "2 colonnes (blocs titrés) + post-it",
+   "zones": {
+    "0": "Phase 1 (MVP)",
+    "13": "OFFRE"
+   },
+   "features": {
+    "1": [
+     [
+      "Espace réservé du texte 6",
+      "Espace réservé du contenu 7"
+     ],
+     [
+      "Espace réservé du texte 8",
+      "Espace réservé du contenu 9"
+     ]
+    ],
+    "2": [
+     [
+      "Espace réservé du texte 4",
+      "Espace réservé du contenu 17"
+     ]
+    ]
+   },
+   "heading_size": 16,
+   "text_size": 13,
+   "anchor_top": [
+    1,
+    2
+   ],
+   "place": [
+    {
+     "shapes": [
+      "ZoneTexte 3"
+     ],
+     "box": [
+      8.95,
+      0.58,
+      4.1,
+      1.2
+     ],
+     "scale_fonts": false
+    },
+    {
+     "shapes": [
+      "Espace réservé du texte 15"
+     ],
+     "box": [
+      8.75,
+      4.85,
+      1.85,
+      1.85
+     ],
+     "badge": true
+    }
+   ]
+  },
+  {
+   "src": 139,
+   "mode": "fill",
+   "layout": "Standard - 2 columns",
+   "method": "2 colonnes (blocs titrés) + post-it",
+   "zones": {
+    "0": "Phase 2",
+    "13": "OFFRE"
+   },
+   "features": {
+    "1": [
+     [
+      "Espace réservé du texte 6",
+      "Espace réservé du contenu 7"
+     ],
+     [
+      "Espace réservé du texte 8",
+      "Espace réservé du contenu 9"
+     ]
+    ],
+    "2": [
+     [
+      "Espace réservé du texte 4",
+      "Espace réservé du contenu 17"
+     ]
+    ]
+   },
+   "heading_size": 16,
+   "text_size": 13,
+   "anchor_top": [
+    1,
+    2
+   ],
+   "place": [
+    {
+     "shapes": [
+      "ZoneTexte 3"
+     ],
+     "box": [
+      8.95,
+      0.58,
+      4.1,
+      1.2
+     ],
+     "scale_fonts": false
+    },
+    {
+     "shapes": [
+      "Espace réservé du texte 15"
+     ],
+     "box": [
+      8.75,
+      4.85,
+      1.85,
+      1.85
+     ],
+     "badge": true
+    }
+   ]
+  },
+  {
+   "src": 140,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte",
+   "zones": {
+    "0": "Conditions",
+    "13": "OFFRE"
+   },
+   "copy_text": {
+    "1": "Content Placeholder 6"
+   },
+   "font_size": {
+    "1": 15
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 141,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte",
+   "zones": {
+    "0": "Prochaines étapes",
+    "13": "OFFRE"
+   },
+   "copy_text": {
+    "1": "Content Placeholder 2"
+   },
+   "font_size": {
+    "1": 15
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 142,
+   "mode": "fill",
+   "layout": "Section Title",
+   "method": "section",
+   "zones": {
+    "0": "VOTRE PROJET",
+    "1": "05",
+    "13": "ORGANISATION PROJET"
+   },
+   "section": {
+    "num": "05",
+    "label": "Organisation projet"
+   }
+  },
+  {
+   "src": 143,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma",
+   "zones": {
+    "0": "L’ÉQUIPE PROJET",
+    "13": "ÉQUIPE"
+   },
+   "include": [
+    "Graphique 77"
+   ],
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 144,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a matrice",
+   "zones": {
+    "0": "DÉFINITION DES RÔLES",
+    "13": "ÉQUIPE PROJET"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 145,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau",
+   "zones": {
+    "0": "Rôles",
+    "13": "ORGANISATION PROJET"
+   },
+   "box": [
+    0.76,
+    2.6,
+    11.81,
+    4.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 146,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (processus)",
+   "zones": {
+    "0": "PHASE D’IMPLEMENTATION",
+    "13": "IMPLÉMENTATION"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 147,
+   "mode": "transplant",
+   "layout": "Standard - Title only - Wide",
+   "method": "5a schéma (processus)",
+   "zones": {
+    "0": "MISE EN PRODUCTION",
+    "13": "IMPLÉMENTATION"
+   },
+   "box": [
+    0.76,
+    1.65,
+    11.81,
+    5.2
+   ],
+   "upscale": true
+  },
+  {
+   "src": 148,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte",
+   "zones": {
+    "0": "Formation des key users",
+    "13": "MISE EN PRODUCTION"
+   },
+   "copy_text": {
+    "1": "Content Placeholder 6"
+   },
+   "font_size": {
+    "1": 16
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 149,
+   "mode": "fill",
+   "layout": "Design - Circle left",
+   "method": "texte",
+   "zones": {
+    "0": "Période UAT",
+    "13": "MISE EN PRODUCTION"
+   },
+   "copy_text": {
+    "14": "Content Placeholder 6"
+   },
+   "font_size": {
+    "14": 18
+   }
+  },
+  {
+   "src": 150,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Déroulement de la mise en production",
+    "13": "MISE EN PRODUCTION"
+   },
+   "include": [
+    "Diagram 3"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 151,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Hypercare",
+    "13": "MISE EN PRODUCTION"
+   },
+   "include": [
+    "Diagram 1"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 152,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5a SmartArt",
+   "zones": {
+    "0": "Passage en support",
+    "13": "MISE EN PRODUCTION"
+   },
+   "include": [
+    "Content Placeholder 1"
+   ],
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 153,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau (+ crayons)",
+   "zones": {
+    "0": "Communication projet",
+    "13": "ORGANISATION PROJET"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 154,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau (+ crayons)",
+   "zones": {
+    "0": "Pilotage",
+    "13": "IMPLICATION PROJET"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 155,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau (+ crayons)",
+   "zones": {
+    "0": "Projet",
+    "13": "IMPLICATION PROJET"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 156,
+   "mode": "transplant",
+   "layout": "Standard - Title only",
+   "method": "5d tableau (+ crayons)",
+   "zones": {
+    "0": "UAT et formations",
+    "13": "IMPLICATION PROJET"
+   },
+   "box": [
+    0.76,
+    2.55,
+    11.81,
+    4.3
+   ],
+   "upscale": true
+  },
+  {
+   "src": 157,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte (mises en valeur conservées)",
+   "zones": {
+    "0": "Hebdomadaire",
+    "13": "INDICATEURS DE SUIVI"
+   },
+   "copy_text": {
+    "1": "Espace réservé du contenu 2"
+   },
+   "keep_color": [
+    1
+   ],
+   "font_size": {
+    "1": 16
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 158,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte (mises en valeur conservées)",
+   "zones": {
+    "0": "Mensuels",
+    "13": "INDICATEURS DE SUIVI"
+   },
+   "copy_text": {
+    "1": "Espace réservé du contenu 2"
+   },
+   "keep_color": [
+    1
+   ],
+   "font_size": {
+    "1": 16
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 159,
+   "mode": "fill",
+   "layout": "Standard - 1 column",
+   "method": "texte (mises en valeur conservées)",
+   "zones": {
+    "0": "Indicateurs de suivi",
+    "13": "PILOTAGE"
+   },
+   "copy_text": {
+    "1": "Espace réservé du contenu 2"
+   },
+   "keep_color": [
+    1
+   ],
+   "font_size": {
+    "1": 16
+   },
+   "anchor_top": [
+    1
+   ]
+  },
+  {
+   "src": 160,
+   "mode": "fill",
+   "layout": "3_Circles - 2 columns X2",
+   "method": "slide de clôture",
+   "zones": {
+    "0": "QUELLES SONT VOS QUESTIONS ?",
+    "13": "ÉCHANGES"
+   },
+   "comment": "illustration Storyset non reprise"
+  },
+  {
+   "src": 161,
+   "mode": "design",
+   "design": "bureaux_fr",
+   "method": "slide de design du template (Nos bureaux)"
+  }
+ ]
+}

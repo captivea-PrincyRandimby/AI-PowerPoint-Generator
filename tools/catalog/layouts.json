@@ -1,0 +1,3025 @@
+{
+  "layouts": [
+    {
+      "index": 0,
+      "name": "1_Main Title",
+      "zones": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 4.11,
+          "width": 11.81,
+          "height": 1.61
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 5.79,
+          "width": 11.81,
+          "height": 1.32
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 1,
+      "name": "Section Title",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 2.13,
+          "width": 11.81,
+          "height": 1.97
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 4.36,
+          "width": 11.81,
+          "height": 1.64
+        },
+        {
+          "idx": 14,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 2,
+      "name": "Summary",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 2.84,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.54,
+          "top": 2.84,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.07,
+          "top": 2.84,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.85,
+          "top": 2.84,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 3.63,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.54,
+          "top": 3.63,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.07,
+          "top": 3.63,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.85,
+          "top": 3.63,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 4.42,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.54,
+          "top": 4.42,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.07,
+          "top": 4.42,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.85,
+          "top": 4.42,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 5.2,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.53,
+          "top": 5.2,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.07,
+          "top": 5.2,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.84,
+          "top": 5.2,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 5.99,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.53,
+          "top": 5.99,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 32,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.07,
+          "top": 5.99,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 33,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.84,
+          "top": 5.99,
+          "width": 4.73,
+          "height": 0.68
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 10,
+      "ordre_visuel": [
+        [
+          14,
+          15
+        ],
+        [
+          16,
+          17
+        ],
+        [
+          18,
+          19
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          22,
+          23
+        ],
+        [
+          26,
+          27
+        ],
+        [
+          24,
+          25
+        ],
+        [
+          28,
+          29
+        ],
+        [
+          30,
+          31
+        ],
+        [
+          32,
+          33
+        ]
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Standard - 1 column",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 2.6,
+          "width": 11.81,
+          "height": 4.15
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 4,
+      "name": "Standard - 2 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 2.59,
+          "width": 5.67,
+          "height": 4.17
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 6.91,
+          "top": 2.59,
+          "width": 5.67,
+          "height": 4.17
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 5,
+      "name": "Standard - 2 columns with subititle",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 2.57,
+          "width": 5.64,
+          "height": 0.82
+        },
+        {
+          "idx": 3,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.9,
+          "top": 2.57,
+          "width": 5.67,
+          "height": 0.82
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 3.47,
+          "width": 5.64,
+          "height": 3.31
+        },
+        {
+          "idx": 4,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 6.9,
+          "top": 3.47,
+          "width": 5.67,
+          "height": 3.31
+        },
+        {
+          "idx": 14,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 6,
+      "name": "Standard - 3 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 2.68,
+          "width": 3.54,
+          "height": 0.68
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.9,
+          "top": 2.68,
+          "width": 3.54,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.03,
+          "top": 2.68,
+          "width": 3.54,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 3.5,
+          "width": 3.54,
+          "height": 3.18
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.9,
+          "top": 3.5,
+          "width": 3.54,
+          "height": 3.18
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.03,
+          "top": 3.5,
+          "width": 3.54,
+          "height": 3.18
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 7,
+      "name": "Standard - Title only",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 8,
+      "name": "Standard - Title only - Wide",
+      "zones": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 4.95,
+          "top": 0.59,
+          "width": 7.62,
+          "height": 0.93
+        },
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 14,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 9,
+      "name": "Standard - Empty",
+      "zones": [
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 10,
+      "name": "Standard - 1/3 2/3 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.47,
+          "width": 4.3,
+          "height": 1.19
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 5.82,
+          "top": 1.47,
+          "width": 6.75,
+          "height": 5.23
+        },
+        {
+          "idx": 2,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 2.83,
+          "width": 4.3,
+          "height": 3.85
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 11,
+      "name": "1_Standard -  2/3 1/3 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 2.59,
+          "width": 6.75,
+          "height": 4.11
+        },
+        {
+          "idx": 14,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 7.83,
+          "top": 2.59,
+          "width": 4.75,
+          "height": 4.11
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 12,
+      "name": "Boxed - 2 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.06,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 3.68,
+          "width": 5.31,
+          "height": 0.68
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.06,
+          "top": 3.68,
+          "width": 5.31,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 4.5,
+          "width": 5.31,
+          "height": 1.81
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 7.06,
+          "top": 4.5,
+          "width": 5.31,
+          "height": 1.81
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 2,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          17,
+          18,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 13,
+      "name": "Boxed - 2 columns with subtitle",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "sous-titre",
+          "left": 0.76,
+          "top": 2.51,
+          "width": 11.81,
+          "height": 0.91
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.06,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 4.43,
+          "width": 5.34,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.06,
+          "top": 4.43,
+          "width": 5.34,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 5.15,
+          "width": 5.34,
+          "height": 1.49
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 7.06,
+          "top": 5.15,
+          "width": 5.34,
+          "height": 1.49
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 2,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          24,
+          25,
+          26
+        ]
+      ]
+    },
+    {
+      "index": 14,
+      "name": "Boxed - 3 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.99,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 9.03,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 3.68,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.99,
+          "top": 3.68,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.03,
+          "top": 3.68,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 4.5,
+          "width": 3.35,
+          "height": 1.81
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.99,
+          "top": 4.5,
+          "width": 3.35,
+          "height": 1.81
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.03,
+          "top": 4.5,
+          "width": 3.35,
+          "height": 1.81
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 3,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          17,
+          18,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 15,
+      "name": "Boxed - 3 columns with subtitle",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "sous-titre",
+          "left": 0.76,
+          "top": 2.51,
+          "width": 11.81,
+          "height": 0.91
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.99,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 9.03,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 4.43,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.99,
+          "top": 4.43,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.03,
+          "top": 4.43,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 5.15,
+          "width": 3.35,
+          "height": 1.49
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.99,
+          "top": 5.15,
+          "width": 3.35,
+          "height": 1.49
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.03,
+          "top": 5.15,
+          "width": 3.35,
+          "height": 1.49
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 3,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          17,
+          18,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 16,
+      "name": "Boxed - 4 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.0,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 6.98,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 10.01,
+          "top": 2.81,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 3.68,
+          "width": 2.38,
+          "height": 0.68
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.0,
+          "top": 3.68,
+          "width": 2.38,
+          "height": 0.68
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.98,
+          "top": 3.68,
+          "width": 2.38,
+          "height": 0.68
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 10.01,
+          "top": 3.68,
+          "width": 2.38,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 4.5,
+          "width": 2.38,
+          "height": 1.81
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.0,
+          "top": 4.5,
+          "width": 2.38,
+          "height": 1.81
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 6.98,
+          "top": 4.5,
+          "width": 2.38,
+          "height": 1.81
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 10.01,
+          "top": 4.5,
+          "width": 2.38,
+          "height": 1.81
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 4,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          17,
+          18,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 17,
+      "name": "Boxed - 4 columns with subtitle",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "sous-titre",
+          "left": 0.76,
+          "top": 2.51,
+          "width": 11.81,
+          "height": 0.91
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.01,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.01,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 10.01,
+          "top": 3.67,
+          "width": 0.69,
+          "height": 0.68
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.96,
+          "top": 4.43,
+          "width": 2.39,
+          "height": 0.68
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.01,
+          "top": 4.43,
+          "width": 2.39,
+          "height": 0.68
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 7.01,
+          "top": 4.43,
+          "width": 2.39,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 10.01,
+          "top": 4.43,
+          "width": 2.39,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 5.15,
+          "width": 2.39,
+          "height": 1.49
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.01,
+          "top": 5.15,
+          "width": 2.39,
+          "height": 1.49
+        },
+        {
+          "idx": 32,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 7.01,
+          "top": 5.15,
+          "width": 2.39,
+          "height": 1.49
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 10.01,
+          "top": 5.15,
+          "width": 2.39,
+          "height": 1.49
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 4,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          27,
+          28,
+          29
+        ],
+        [
+          30,
+          31,
+          32
+        ],
+        [
+          24,
+          25,
+          26
+        ]
+      ]
+    },
+    {
+      "index": 18,
+      "name": "Boxed - 3 columns X2",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 2.84,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 15,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.49,
+          "top": 2.78,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.99,
+          "top": 2.84,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 5.52,
+          "top": 2.78,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 17,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 9.03,
+          "top": 2.84,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.56,
+          "top": 2.78,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 3.48,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.99,
+          "top": 3.48,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.03,
+          "top": 3.48,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.49,
+          "top": 4.94,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 5.52,
+          "top": 4.94,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.56,
+          "top": 4.94,
+          "width": 2.82,
+          "height": 0.68
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.96,
+          "top": 5.0,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.99,
+          "top": 5.0,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 9.03,
+          "top": 5.0,
+          "width": 0.53,
+          "height": 0.52
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.96,
+          "top": 5.64,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.99,
+          "top": 5.64,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.03,
+          "top": 5.64,
+          "width": 3.35,
+          "height": 1.08
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 6,
+      "ordre_visuel": [
+        [
+          14,
+          15,
+          16
+        ],
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          17,
+          18,
+          19
+        ],
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          29,
+          30,
+          31
+        ],
+        [
+          26,
+          27,
+          28
+        ]
+      ]
+    },
+    {
+      "index": 19,
+      "name": "1_Boxed - 2 columns X4",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 33,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 2.51,
+          "width": 5.71,
+          "height": 0.76
+        },
+        {
+          "idx": 34,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.86,
+          "top": 2.51,
+          "width": 5.71,
+          "height": 0.76
+        },
+        {
+          "idx": 16,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 3.32,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.86,
+          "top": 3.32,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 18,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.88,
+          "top": 3.43,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.98,
+          "top": 3.43,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 19,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 4.17,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.86,
+          "top": 4.17,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.88,
+          "top": 4.28,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.98,
+          "top": 4.28,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 5.02,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.86,
+          "top": 5.02,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.88,
+          "top": 5.13,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.98,
+          "top": 5.13,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 5.87,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.86,
+          "top": 5.87,
+          "width": 5.71,
+          "height": 0.81
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.88,
+          "top": 5.98,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 32,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.98,
+          "top": 5.98,
+          "width": 2.01,
+          "height": 0.58
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 20,
+      "name": "Circles - 2 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 2.67,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 8.7,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 1.98,
+          "top": 4.87,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 8.01,
+          "top": 4.87,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 1.98,
+          "top": 5.63,
+          "width": 3.35,
+          "height": 1.14
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 8.01,
+          "top": 5.63,
+          "width": 3.35,
+          "height": 1.14
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 2,
+      "ordre_visuel": [
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          26,
+          27,
+          28
+        ]
+      ]
+    },
+    {
+      "index": 21,
+      "name": "Circles - 3 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 1.45,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 20,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 5.68,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 9.91,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 4.87,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 21,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 4.99,
+          "top": 4.87,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.23,
+          "top": 4.87,
+          "width": 3.35,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 5.63,
+          "width": 3.35,
+          "height": 1.14
+        },
+        {
+          "idx": 22,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 4.99,
+          "top": 5.63,
+          "width": 3.35,
+          "height": 1.14
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.23,
+          "top": 5.63,
+          "width": 3.35,
+          "height": 1.14
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 3,
+      "ordre_visuel": [
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          20,
+          21,
+          22
+        ],
+        [
+          26,
+          27,
+          28
+        ]
+      ]
+    },
+    {
+      "index": 22,
+      "name": "Circles - 4 columns",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 1.15,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 4.18,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 32,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 7.19,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 10.21,
+          "top": 2.81,
+          "width": 1.97,
+          "height": 1.97
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 0.76,
+          "top": 4.87,
+          "width": 2.76,
+          "height": 0.68
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 3.78,
+          "top": 4.87,
+          "width": 2.76,
+          "height": 0.68
+        },
+        {
+          "idx": 33,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 6.8,
+          "top": 4.87,
+          "width": 2.76,
+          "height": 0.68
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 9.82,
+          "top": 4.87,
+          "width": 2.76,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 5.63,
+          "width": 2.76,
+          "height": 1.14
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 3.78,
+          "top": 5.63,
+          "width": 2.76,
+          "height": 1.14
+        },
+        {
+          "idx": 34,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 6.8,
+          "top": 5.63,
+          "width": 2.76,
+          "height": 1.14
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 9.82,
+          "top": 5.63,
+          "width": 2.76,
+          "height": 1.14
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 4,
+      "ordre_visuel": [
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          29,
+          30,
+          31
+        ],
+        [
+          32,
+          33,
+          34
+        ],
+        [
+          26,
+          27,
+          28
+        ]
+      ]
+    },
+    {
+      "index": 23,
+      "name": "Circles - 2 columns X2",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 0.93
+        },
+        {
+          "idx": 23,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.76,
+          "top": 2.81,
+          "width": 1.66,
+          "height": 1.66
+        },
+        {
+          "idx": 24,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 2.63,
+          "top": 2.81,
+          "width": 3.71,
+          "height": 0.68
+        },
+        {
+          "idx": 29,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 6.98,
+          "top": 2.81,
+          "width": 1.66,
+          "height": 1.66
+        },
+        {
+          "idx": 30,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 8.85,
+          "top": 2.81,
+          "width": 3.71,
+          "height": 0.68
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 2.63,
+          "top": 3.5,
+          "width": 3.71,
+          "height": 0.97
+        },
+        {
+          "idx": 31,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 8.85,
+          "top": 3.5,
+          "width": 3.71,
+          "height": 0.97
+        },
+        {
+          "idx": 26,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 0.77,
+          "top": 4.85,
+          "width": 1.66,
+          "height": 1.66
+        },
+        {
+          "idx": 27,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 2.64,
+          "top": 4.85,
+          "width": 3.71,
+          "height": 0.68
+        },
+        {
+          "idx": 32,
+          "type": "BODY",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 6.99,
+          "top": 4.85,
+          "width": 1.66,
+          "height": 1.66
+        },
+        {
+          "idx": 33,
+          "type": "BODY",
+          "role": "sous-titre de colonne",
+          "left": 8.86,
+          "top": 4.85,
+          "width": 3.71,
+          "height": 0.68
+        },
+        {
+          "idx": 28,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 2.64,
+          "top": 5.53,
+          "width": 3.71,
+          "height": 0.97
+        },
+        {
+          "idx": 34,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 8.86,
+          "top": 5.53,
+          "width": 3.71,
+          "height": 0.97
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": 4,
+      "ordre_visuel": [
+        [
+          23,
+          24,
+          25
+        ],
+        [
+          29,
+          30,
+          31
+        ],
+        [
+          26,
+          27,
+          28
+        ],
+        [
+          32,
+          33,
+          34
+        ]
+      ]
+    },
+    {
+      "index": 24,
+      "name": "Design - Circle left",
+      "zones": [
+        {
+          "idx": 14,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 6.67,
+          "top": 0.71,
+          "width": 5.91,
+          "height": 6.09
+        },
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 4.26,
+          "height": 2.27
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 3.75,
+          "width": 4.26,
+          "height": 2.55
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 25,
+      "name": "Design - Arrow down",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 4.8,
+          "top": 0.82,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 1.48,
+          "width": 11.81,
+          "height": 1.39
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 2.88,
+          "width": 11.81,
+          "height": 2.55
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 26,
+      "name": "3_Circles - 2 columns X2",
+      "zones": [
+        {
+          "idx": 13,
+          "type": "BODY",
+          "role": "capsule",
+          "left": 0.76,
+          "top": 1.36,
+          "width": 3.74,
+          "height": 0.47
+        },
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "role": "titre",
+          "left": 0.76,
+          "top": 2.02,
+          "width": 9.57,
+          "height": 1.39
+        },
+        {
+          "idx": 25,
+          "type": "BODY",
+          "role": "contenu",
+          "left": 0.76,
+          "top": 3.42,
+          "width": 9.57,
+          "height": 2.55
+        },
+        {
+          "idx": 10,
+          "type": "SLIDE_NUMBER",
+          "role": "numero_slide",
+          "left": 0.76,
+          "top": 6.95,
+          "width": 3.0,
+          "height": 0.4
+        }
+      ],
+      "nb_elements_paralleles": null,
+      "ordre_visuel": null
+    },
+    {
+      "index": 27,
+      "name": "Disposition personnalisée",
+      "zones": [
+        {
+          "idx": 12,
+          "type": "PICTURE",
+          "role": "pastille/cercle (numero ou icone)",
+          "left": 3.83,
+          "top": 2.31,
+          "width": 1.88,
+          "height": 1.88
+        },
+        {
+          "idx": 11,
+          "type": "OBJECT",
+          "role": "contenu",
+          "left": 4.66,
+          "top": 2.31,
+          "width": 4.83,
+          "height": 1.88
+        }
+      ],
+      "nb_elements_paralleles": 1,
+      "ordre_visuel": [
+        [
+          12,
+          11
+        ]
+      ]
+    }
+  ],
+  "designs": [
+    {
+      "n": 1,
+      "layout": "1_Main Title",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Main Title"
+      ]
+    },
+    {
+      "n": 2,
+      "layout": "Section Title",
+      "lang": null,
+      "elements_design": 1,
+      "apercu_texte": [
+        "Section Title"
+      ]
+    },
+    {
+      "n": 3,
+      "layout": "Summary",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Summary"
+      ]
+    },
+    {
+      "n": 4,
+      "layout": "Standard - 1 column",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - 1 column"
+      ]
+    },
+    {
+      "n": 5,
+      "layout": "Standard - 2 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - 2 columns"
+      ]
+    },
+    {
+      "n": 6,
+      "layout": "Standard - 2 columns with subititle",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - 2 columns with subititle"
+      ]
+    },
+    {
+      "n": 7,
+      "layout": "Standard - Title only",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - Title only"
+      ]
+    },
+    {
+      "n": 8,
+      "layout": "Standard - Title only - Wide",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": []
+    },
+    {
+      "n": 9,
+      "layout": "Standard - Empty",
+      "lang": null,
+      "elements_design": 1,
+      "apercu_texte": [
+        "Standard - Empty"
+      ]
+    },
+    {
+      "n": 10,
+      "layout": "Standard - 1/3 2/3 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - 1/3 2/3 columns"
+      ]
+    },
+    {
+      "n": 11,
+      "layout": "1_Standard -  2/3 1/3 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Standard - 1/3 2/3 columns"
+      ]
+    },
+    {
+      "n": 12,
+      "layout": "Boxed - 2 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 2 columns"
+      ]
+    },
+    {
+      "n": 13,
+      "layout": "Boxed - 2 columns with subtitle",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 2 columns with subtitle"
+      ]
+    },
+    {
+      "n": 14,
+      "layout": "Boxed - 3 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 3 columns"
+      ]
+    },
+    {
+      "n": 15,
+      "layout": "Boxed - 3 columns with subtitle",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 3 columns with subtitle"
+      ]
+    },
+    {
+      "n": 16,
+      "layout": "Boxed - 4 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 4 columns"
+      ]
+    },
+    {
+      "n": 17,
+      "layout": "Boxed - 4 columns with subtitle",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 4 columns with subtitle"
+      ]
+    },
+    {
+      "n": 18,
+      "layout": "Boxed - 3 columns X2",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Boxed - 3 columns X2"
+      ]
+    },
+    {
+      "n": 19,
+      "layout": "1_Boxed - 2 columns X4",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "1_Boxed - 2 columns X4"
+      ]
+    },
+    {
+      "n": 20,
+      "layout": "Circles - 2 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Circles - 2 columns"
+      ]
+    },
+    {
+      "n": 21,
+      "layout": "Circles - 3 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Circles - 3 columns"
+      ]
+    },
+    {
+      "n": 22,
+      "layout": "Circles - 4 columns",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Circles - 4 columns"
+      ]
+    },
+    {
+      "n": 23,
+      "layout": "Circles - 2 columns X2",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "Circles - 2 columns X2"
+      ]
+    },
+    {
+      "n": 24,
+      "layout": "Circles - 2 columns X2",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": []
+    },
+    {
+      "n": 25,
+      "layout": "Design - Circle left",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "1_Circles - 2 columns X2"
+      ]
+    },
+    {
+      "n": 26,
+      "layout": "Design - Arrow down",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "2_Circles - 2 columns X2"
+      ]
+    },
+    {
+      "n": 27,
+      "layout": "3_Circles - 2 columns X2",
+      "lang": null,
+      "elements_design": 0,
+      "apercu_texte": [
+        "3_Circles - 2 columns X2"
+      ]
+    },
+    {
+      "n": 28,
+      "layout": "Disposition personnalisée",
+      "lang": "fr",
+      "elements_design": 23,
+      "apercu_texte": [
+        "Amérique du Nord",
+        "Africa",
+        "Europe",
+        "Asie",
+        "Luxembourg",
+        "France"
+      ]
+    },
+    {
+      "n": 29,
+      "layout": "Disposition personnalisée",
+      "lang": "en",
+      "elements_design": 23,
+      "apercu_texte": [
+        "North America",
+        "Africa",
+        "Europe",
+        "Asia",
+        "Luxembourg",
+        "France"
+      ]
+    }
+  ]
+}

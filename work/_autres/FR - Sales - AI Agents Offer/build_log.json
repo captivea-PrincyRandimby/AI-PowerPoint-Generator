@@ -1,0 +1,292 @@
+{
+ "source": "C:\\Users\\Captivea-Princy-AI\\Downloads\\PPT Transformation\\PPT Transformation\\PROJECT\\..\\05. Render corrected\\Sales knowledge\\09. AI Agents Offer\\FR - Sales - AI Agents Offer.pptx",
+ "output": "C:\\Users\\Captivea-Princy-AI\\Downloads\\PPT Transformation\\PPT Transformation\\PROJECT\\04. Render from claude\\FR - Sales - AI Agents Offer.pptx",
+ "template": "C:\\Users\\Captivea-Princy-AI\\Downloads\\PPT Transformation\\PPT Transformation\\PROJECT\\01. Template\\2026-template-captivea.potx",
+ "lang": "fr",
+ "slides": [
+  {
+   "out": 1,
+   "src": 1,
+   "mode": "fill",
+   "layout": "1_Main Title",
+   "design": null,
+   "method": "couverture (sans capsule)",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 2,
+   "src": null,
+   "mode": "summary",
+   "layout": "Summary",
+   "design": null,
+   "method": "sommaire régénéré depuis les sections (celui du 05 listait les sections d'un autre deck)",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 3,
+   "src": 3,
+   "mode": "fill",
+   "layout": "Section Title",
+   "design": null,
+   "method": "section refaite (numéro en zone 1)",
+   "section": {
+    "num": "01",
+    "label": "Captivea et Odoo"
+   },
+   "from": null
+  },
+  {
+   "out": 4,
+   "src": 4,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 5,
+   "src": 5,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 6,
+   "src": 6,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 7,
+   "src": 7,
+   "mode": "fill",
+   "layout": "Section Title",
+   "design": null,
+   "method": "section refaite (numéro en zone 1)",
+   "section": {
+    "num": "02",
+    "label": "Découvrir l’IA"
+   },
+   "from": null
+  },
+  {
+   "out": 8,
+   "src": 8,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 9,
+   "src": 9,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 10,
+   "src": 10,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 11,
+   "src": 11,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 12,
+   "src": 12,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 13,
+   "src": 13,
+   "mode": "fill",
+   "layout": "Section Title",
+   "design": null,
+   "method": "section refaite (numéro en zone 1)",
+   "section": {
+    "num": "03",
+    "label": "6 agents IA entraînés"
+   },
+   "from": null
+  },
+  {
+   "out": 14,
+   "src": 14,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 15,
+   "src": 15,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 16,
+   "src": 16,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 17,
+   "src": 17,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 18,
+   "src": 18,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 19,
+   "src": 19,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 20,
+   "src": 20,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 21,
+   "src": 21,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05, capsule corrigée (6 ANGENTS IA)",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 22,
+   "src": 22,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 23,
+   "src": 23,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 24,
+   "src": 24,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05, capsule harmonisée (accent)",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 25,
+   "src": 25,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  },
+  {
+   "out": 26,
+   "src": 26,
+   "mode": "clone",
+   "layout": null,
+   "design": null,
+   "method": "clone 05 sur le masque du même nom",
+   "section": null,
+   "from": null
+  }
+ ],
+ "recharte": [
+  "slide 10: violet 714B67 -> CD5358",
+  "slide 10: violet 714B67 -> CD5358",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 10: ancien dégradé -> dégradé charte",
+  "slide 11: ancien dégradé -> dégradé charte",
+  "slide 11: ancien dégradé -> dégradé charte",
+  "slide 11: ancien dégradé -> dégradé charte",
+  "slide 11: ancien dégradé -> dégradé charte"
+ ]
+}
